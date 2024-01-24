@@ -1,0 +1,1985 @@
+"region","year","hist","futr"
+"USA",1971,214118.994,NA
+"USA",1972,216048.91,NA
+"USA",1973,218006.635,NA
+"USA",1974,219994.049,NA
+"USA",1975,222012.648,NA
+"USA",1976,224070.951,NA
+"USA",1977,226174.201,NA
+"USA",1978,228315.206,NA
+"USA",1979,230482.084,NA
+"USA",1980,232666.125,NA
+"USA",1981,234868.429,NA
+"USA",1982,237092.661,NA
+"USA",1983,239335.924,NA
+"USA",1984,241594.79,NA
+"USA",1985,243868.284,NA
+"USA",1986,246160.18,NA
+"USA",1987,248476.513,NA
+"USA",1988,250822.149,NA
+"USA",1989,253203.039,NA
+"USA",1990,255627.219,NA
+"USA",1991,258078.712,NA
+"USA",1992,260564.475,NA
+"USA",1993,263141.324,NA
+"USA",1994,265884.637,NA
+"USA",1995,268838.833,NA
+"USA",1996,272039.022,NA
+"USA",1997,275443.843,NA
+"USA",1998,278927.536,NA
+"USA",1999,282316.553,NA
+"USA",2000,285488.591,NA
+"USA",2001,288386.98,NA
+"USA",2002,291052.207,NA
+"USA",2003,293577.58,NA
+"USA",2004,296104.756,NA
+"USA",2005,298733.194,NA
+"USA",2006,301490.211,NA
+"USA",2007,304331.884,NA
+"USA",2008,307200.8,NA
+"USA",2009,310010.519,NA
+"USA",2010,312697.403,NA
+"USA",2011,315249.701,NA
+"USA",2012,317685.991,NA
+"USA",2013,320009.699,NA
+"USA",2014,322232.197,NA
+"USA",2015,324364.786,324365
+"Africa_Eastern",1971,81947.585,NA
+"Africa_Eastern",1972,84305.559,NA
+"Africa_Eastern",1973,86737.239,NA
+"Africa_Eastern",1974,89260.779,NA
+"Africa_Eastern",1975,91890.103,NA
+"Africa_Eastern",1976,94632.957,NA
+"Africa_Eastern",1977,97489.11,NA
+"Africa_Eastern",1978,100455.142,NA
+"Africa_Eastern",1979,103524.06,NA
+"Africa_Eastern",1980,106692.509,NA
+"Africa_Eastern",1981,109951.55,NA
+"Africa_Eastern",1982,113307.31,NA
+"Africa_Eastern",1983,116788.653,NA
+"Africa_Eastern",1984,120434.545,NA
+"Africa_Eastern",1985,124267.964,NA
+"Africa_Eastern",1986,128312.519,NA
+"Africa_Eastern",1987,132548.202,NA
+"Africa_Eastern",1988,136901.894,NA
+"Africa_Eastern",1989,141272.733,NA
+"Africa_Eastern",1990,145593.085,NA
+"Africa_Eastern",1991,149830.285,NA
+"Africa_Eastern",1992,154018.957,NA
+"Africa_Eastern",1993,158241.314,NA
+"Africa_Eastern",1994,162615.658,NA
+"Africa_Eastern",1995,167226.896,NA
+"Africa_Eastern",1996,172103.933,NA
+"Africa_Eastern",1997,177219.863,NA
+"Africa_Eastern",1998,182536.287,NA
+"Africa_Eastern",1999,187991.466,NA
+"Africa_Eastern",2000,193540.372,NA
+"Africa_Eastern",2001,199178.595,NA
+"Africa_Eastern",2002,204923.046,NA
+"Africa_Eastern",2003,210775.505,NA
+"Africa_Eastern",2004,216741.898,NA
+"Africa_Eastern",2005,222829.112,NA
+"Africa_Eastern",2006,229034.719,NA
+"Africa_Eastern",2007,235363.087,NA
+"Africa_Eastern",2008,241837.032,NA
+"Africa_Eastern",2009,248486.344,NA
+"Africa_Eastern",2010,255333.082,NA
+"Africa_Eastern",2011,262379.291,NA
+"Africa_Eastern",2012,269620.328,NA
+"Africa_Eastern",2013,277061.846,NA
+"Africa_Eastern",2014,284708.733,NA
+"Africa_Eastern",2015,292559.641,292560
+"Africa_Northern",1971,74015.854,NA
+"Africa_Northern",1972,75777.853,NA
+"Africa_Northern",1973,77565.399,NA
+"Africa_Northern",1974,79408.39,NA
+"Africa_Northern",1975,81330.02,NA
+"Africa_Northern",1976,83334.168,NA
+"Africa_Northern",1977,85419.374,NA
+"Africa_Northern",1978,87596.346,NA
+"Africa_Northern",1979,89876.376,NA
+"Africa_Northern",1980,92265.122,NA
+"Africa_Northern",1981,94764.203,NA
+"Africa_Northern",1982,97365.248,NA
+"Africa_Northern",1983,100050.169,NA
+"Africa_Northern",1984,102794.118,NA
+"Africa_Northern",1985,105575.14,NA
+"Africa_Northern",1986,108386.141,NA
+"Africa_Northern",1987,111219.135,NA
+"Africa_Northern",1988,114049.813,NA
+"Africa_Northern",1989,116849.723,NA
+"Africa_Northern",1990,119597.221,NA
+"Africa_Northern",1991,122281.914,NA
+"Africa_Northern",1992,124903.019,NA
+"Africa_Northern",1993,127461.77,NA
+"Africa_Northern",1994,129964.104,NA
+"Africa_Northern",1995,132415.899,NA
+"Africa_Northern",1996,134819.126,NA
+"Africa_Northern",1997,137175.79,NA
+"Africa_Northern",1998,139493.186,NA
+"Africa_Northern",1999,141780.532,NA
+"Africa_Northern",2000,144047.834,NA
+"Africa_Northern",2001,146304.307,NA
+"Africa_Northern",2002,148560.487,NA
+"Africa_Northern",2003,150830.129,NA
+"Africa_Northern",2004,153128.678,NA
+"Africa_Northern",2005,155471.754,NA
+"Africa_Northern",2006,157859.784,NA
+"Africa_Northern",2007,160304.491,NA
+"Africa_Northern",2008,162845.312,NA
+"Africa_Northern",2009,165531.488,NA
+"Africa_Northern",2010,168395.26,NA
+"Africa_Northern",2011,171449.519,NA
+"Africa_Northern",2012,174676.561,NA
+"Africa_Northern",2013,178038.651,NA
+"Africa_Northern",2014,181480.938,NA
+"Africa_Northern",2015,184958.655,184959
+"Africa_Southern",1971,46855.715,NA
+"Africa_Southern",1972,48291.95,NA
+"Africa_Southern",1973,49818.132,NA
+"Africa_Southern",1974,51409.151,NA
+"Africa_Southern",1975,53046.228,NA
+"Africa_Southern",1976,54724.884,NA
+"Africa_Southern",1977,56450.091,NA
+"Africa_Southern",1978,58220.981,NA
+"Africa_Southern",1979,60038.786,NA
+"Africa_Southern",1980,61904.339,NA
+"Africa_Southern",1981,63815.083,NA
+"Africa_Southern",1982,65769.343,NA
+"Africa_Southern",1983,67769.597,NA
+"Africa_Southern",1984,69819.69,NA
+"Africa_Southern",1985,71922.026,NA
+"Africa_Southern",1986,74074.622,NA
+"Africa_Southern",1987,76274.714,NA
+"Africa_Southern",1988,78522.323,NA
+"Africa_Southern",1989,80817.654,NA
+"Africa_Southern",1990,83159.117,NA
+"Africa_Southern",1991,85552.048,NA
+"Africa_Southern",1992,87992.176,NA
+"Africa_Southern",1993,90456.934,NA
+"Africa_Southern",1994,92916.433,NA
+"Africa_Southern",1995,95351.841,NA
+"Africa_Southern",1996,97757.333,NA
+"Africa_Southern",1997,100147.294,NA
+"Africa_Southern",1998,102548.529,NA
+"Africa_Southern",1999,104998.86,NA
+"Africa_Southern",2000,107528.903,NA
+"Africa_Southern",2001,110149.303,NA
+"Africa_Southern",2002,112863.065,NA
+"Africa_Southern",2003,115684.174,NA
+"Africa_Southern",2004,118626.354,NA
+"Africa_Southern",2005,121700.836,NA
+"Africa_Southern",2006,124914.634,NA
+"Africa_Southern",2007,128272.326,NA
+"Africa_Southern",2008,131778.25,NA
+"Africa_Southern",2009,135435.227,NA
+"Africa_Southern",2010,139244.061,NA
+"Africa_Southern",2011,143209.229,NA
+"Africa_Southern",2012,147328.561,NA
+"Africa_Southern",2013,151587.297,NA
+"Africa_Southern",2014,155965.083,NA
+"Africa_Southern",2015,160446.994,160447
+"Africa_Western",1971,143824.761,NA
+"Africa_Western",1972,147417.832,NA
+"Africa_Western",1973,151154.851,NA
+"Africa_Western",1974,155062.86,NA
+"Africa_Western",1975,159160.229,NA
+"Africa_Western",1976,163459.134,NA
+"Africa_Western",1977,167952.922,NA
+"Africa_Western",1978,172618.281,NA
+"Africa_Western",1979,177420.904,NA
+"Africa_Western",1980,182336.967,NA
+"Africa_Western",1981,187361.653,NA
+"Africa_Western",1982,192506.546,NA
+"Africa_Western",1983,197784.329,NA
+"Africa_Western",1984,203214.349,NA
+"Africa_Western",1985,208812.701,NA
+"Africa_Western",1986,214576.916,NA
+"Africa_Western",1987,220507.581,NA
+"Africa_Western",1988,226627.135,NA
+"Africa_Western",1989,232963.858,NA
+"Africa_Western",1990,239535.083,NA
+"Africa_Western",1991,246362.455,NA
+"Africa_Western",1992,253434.871,NA
+"Africa_Western",1993,260697.713,NA
+"Africa_Western",1994,268074.508,NA
+"Africa_Western",1995,275515.524,NA
+"Africa_Western",1996,283005.228,NA
+"Africa_Western",1997,290576.797,NA
+"Africa_Western",1998,298290.109,NA
+"Africa_Western",1999,306229.921,NA
+"Africa_Western",2000,314462.639,NA
+"Africa_Western",2001,323007.206,NA
+"Africa_Western",2002,331861.585,NA
+"Africa_Western",2003,341045.526,NA
+"Africa_Western",2004,350575.708,NA
+"Africa_Western",2005,360463.943,NA
+"Africa_Western",2006,370725.198,NA
+"Africa_Western",2007,381361.63,NA
+"Africa_Western",2008,392354.626,NA
+"Africa_Western",2009,403674.982,NA
+"Africa_Western",2010,415301.137,NA
+"Africa_Western",2011,427225.116,NA
+"Africa_Western",2012,439452.151,NA
+"Africa_Western",2013,451988.774,NA
+"Africa_Western",2014,464846.199,NA
+"Africa_Western",2015,478030.606,478031
+"Australia_NZ",1971,15903.955,NA
+"Australia_NZ",1972,16173.857,NA
+"Australia_NZ",1973,16421.203,NA
+"Australia_NZ",1974,16647.747,NA
+"Australia_NZ",1975,16855.921,NA
+"Australia_NZ",1976,17044.301,NA
+"Australia_NZ",1977,17214.954,NA
+"Australia_NZ",1978,17378.357,NA
+"Australia_NZ",1979,17548.297,NA
+"Australia_NZ",1980,17735.024,NA
+"Australia_NZ",1981,17942.071,NA
+"Australia_NZ",1982,18167.744,NA
+"Australia_NZ",1983,18410.37,NA
+"Australia_NZ",1984,18666.202,NA
+"Australia_NZ",1985,18931.899,NA
+"Australia_NZ",1986,19207.876,NA
+"Australia_NZ",1987,19493.911,NA
+"Australia_NZ",1988,19785.047,NA
+"Australia_NZ",1989,20074.946,NA
+"Australia_NZ",1990,20358.769,NA
+"Australia_NZ",1991,20635.41,NA
+"Australia_NZ",1992,20905.354,NA
+"Australia_NZ",1993,21167.669,NA
+"Australia_NZ",1994,21421.808,NA
+"Australia_NZ",1995,21668.01,NA
+"Australia_NZ",1996,21906.626,NA
+"Australia_NZ",1997,22139.576,NA
+"Australia_NZ",1998,22370.995,NA
+"Australia_NZ",1999,22606.317,NA
+"Australia_NZ",2000,22850.43,NA
+"Australia_NZ",2001,23102.605,NA
+"Australia_NZ",2002,23364.574,NA
+"Australia_NZ",2003,23646.235,NA
+"Australia_NZ",2004,23960.087,NA
+"Australia_NZ",2005,24313.895,NA
+"Australia_NZ",2006,24712.191,NA
+"Australia_NZ",2007,25149.39,NA
+"Australia_NZ",2008,25610.437,NA
+"Australia_NZ",2009,26074.188,NA
+"Australia_NZ",2010,26524.741,NA
+"Australia_NZ",2011,26956.679,NA
+"Australia_NZ",2012,27372.405,NA
+"Australia_NZ",2013,27773.428,NA
+"Australia_NZ",2014,28163.951,NA
+"Australia_NZ",2015,28547.034,28547
+"Brazil",1971,97482.92,NA
+"Brazil",1972,99859.383,NA
+"Brazil",1973,102259.497,NA
+"Brazil",1974,104706.198,NA
+"Brazil",1975,107216.205,NA
+"Brazil",1976,109790.938,NA
+"Brazil",1977,112425.392,NA
+"Brazil",1978,115121.153,NA
+"Brazil",1979,117878.411,NA
+"Brazil",1980,120694.009,NA
+"Brazil",1981,123570.327,NA
+"Brazil",1982,126498.314,NA
+"Brazil",1983,129448.819,NA
+"Brazil",1984,132383.568,NA
+"Brazil",1985,135274.08,NA
+"Brazil",1986,138108.912,NA
+"Brazil",1987,140891.602,NA
+"Brazil",1988,143627.503,NA
+"Brazil",1989,146328.304,NA
+"Brazil",1990,149003.223,NA
+"Brazil",1991,151648.011,NA
+"Brazil",1992,154259.38,NA
+"Brazil",1993,156849.078,NA
+"Brazil",1994,159432.716,NA
+"Brazil",1995,162019.896,NA
+"Brazil",1996,164614.688,NA
+"Brazil",1997,167209.04,NA
+"Brazil",1998,169785.25,NA
+"Brazil",1999,172318.675,NA
+"Brazil",2000,174790.34,NA
+"Brazil",2001,177196.054,NA
+"Brazil",2002,179537.52,NA
+"Brazil",2003,181809.246,NA
+"Brazil",2004,184006.481,NA
+"Brazil",2005,186127.103,NA
+"Brazil",2006,188167.356,NA
+"Brazil",2007,190130.443,NA
+"Brazil",2008,192030.362,NA
+"Brazil",2009,193886.508,NA
+"Brazil",2010,195713.635,NA
+"Brazil",2011,197514.536,NA
+"Brazil",2012,199287.299,NA
+"Brazil",2013,201035.912,NA
+"Brazil",2014,202763.739,NA
+"Brazil",2015,204471.769,204472
+"Canada",1971,21723.46,NA
+"Canada",1972,22072.194,NA
+"Canada",1973,22415.322,NA
+"Canada",1974,22745.903,NA
+"Canada",1975,23059.265,NA
+"Canada",1976,23354.586,NA
+"Canada",1977,23634.387,NA
+"Canada",1978,23901.717,NA
+"Canada",1979,24161.124,NA
+"Canada",1980,24416.886,NA
+"Canada",1981,24668.167,NA
+"Canada",1982,24916.542,NA
+"Canada",1983,25171.436,NA
+"Canada",1984,25444.884,NA
+"Canada",1985,25744.81,NA
+"Canada",1986,26075.498,NA
+"Canada",1987,26432.893,NA
+"Canada",1988,26806.125,NA
+"Canada",1989,27179.502,NA
+"Canada",1990,27541.319,NA
+"Canada",1991,27888.81,NA
+"Canada",1992,28224.409,NA
+"Canada",1993,28547.967,NA
+"Canada",1994,28860.734,NA
+"Canada",1995,29164.152,NA
+"Canada",1996,29457.817,NA
+"Canada",1997,29742.382,NA
+"Canada",1998,30022.073,NA
+"Canada",1999,30302.515,NA
+"Canada",2000,30588.383,NA
+"Canada",2001,30880.073,NA
+"Canada",2002,31178.263,NA
+"Canada",2003,31488.048,NA
+"Canada",2004,31815.494,NA
+"Canada",2005,32164.309,NA
+"Canada",2006,32536.987,NA
+"Canada",2007,32930.794,NA
+"Canada",2008,33337.638,NA
+"Canada",2009,33746.093,NA
+"Canada",2010,34147.564,NA
+"Canada",2011,34539.159,NA
+"Canada",2012,34922.03,NA
+"Canada",2013,35296.528,NA
+"Canada",2014,35664.337,NA
+"Canada",2015,36026.676,36027
+"Central America and Caribbean",1971,41363.883,NA
+"Central America and Caribbean",1972,42300.18,NA
+"Central America and Caribbean",1973,43243.398,NA
+"Central America and Caribbean",1974,44187.146,NA
+"Central America and Caribbean",1975,45127.23,NA
+"Central America and Caribbean",1976,46062.049,NA
+"Central America and Caribbean",1977,46993.666,NA
+"Central America and Caribbean",1978,47925.942,NA
+"Central America and Caribbean",1979,48864.664,NA
+"Central America and Caribbean",1980,49814.157,NA
+"Central America and Caribbean",1981,50775.183,NA
+"Central America and Caribbean",1982,51747.12,NA
+"Central America and Caribbean",1983,52731.373,NA
+"Central America and Caribbean",1984,53729.206,NA
+"Central America and Caribbean",1985,54741.237,NA
+"Central America and Caribbean",1986,55768.075,NA
+"Central America and Caribbean",1987,56808.925,NA
+"Central America and Caribbean",1988,57861.468,NA
+"Central America and Caribbean",1989,58922.415,NA
+"Central America and Caribbean",1990,59989.027,NA
+"Central America and Caribbean",1991,61060.092,NA
+"Central America and Caribbean",1992,62135.05,NA
+"Central America and Caribbean",1993,63212.663,NA
+"Central America and Caribbean",1994,64291.942,NA
+"Central America and Caribbean",1995,65371.78,NA
+"Central America and Caribbean",1996,66451.375,NA
+"Central America and Caribbean",1997,67529.564,NA
+"Central America and Caribbean",1998,68604.402,NA
+"Central America and Caribbean",1999,69673.686,NA
+"Central America and Caribbean",2000,70735.741,NA
+"Central America and Caribbean",2001,71790.298,NA
+"Central America and Caribbean",2002,72837.398,NA
+"Central America and Caribbean",2003,73876.712,NA
+"Central America and Caribbean",2004,74908.04,NA
+"Central America and Caribbean",2005,75931.66,NA
+"Central America and Caribbean",2006,76946.498,NA
+"Central America and Caribbean",2007,77953.7,NA
+"Central America and Caribbean",2008,78958.293,NA
+"Central America and Caribbean",2009,79966.97,NA
+"Central America and Caribbean",2010,80984.296,NA
+"Central America and Caribbean",2011,82009.777,NA
+"Central America and Caribbean",2012,83043.985,NA
+"Central America and Caribbean",2013,84083.268,NA
+"Central America and Caribbean",2014,85122.144,NA
+"Central America and Caribbean",2015,86156.065,86156
+"Central Asia",1971,47963.241,NA
+"Central Asia",1972,48987.772,NA
+"Central Asia",1973,49990.683,NA
+"Central Asia",1974,50983.373,NA
+"Central Asia",1975,51975.269,NA
+"Central Asia",1976,52968.867,NA
+"Central Asia",1977,53965.577,NA
+"Central Asia",1978,54972.482,NA
+"Central Asia",1979,55997.47,NA
+"Central Asia",1980,57046.097,NA
+"Central Asia",1981,58113.866,NA
+"Central Asia",1982,59198.149,NA
+"Central Asia",1983,60307.589,NA
+"Central Asia",1984,61453.184,NA
+"Central Asia",1985,62637.512,NA
+"Central Asia",1986,63869.482,NA
+"Central Asia",1987,65131.847,NA
+"Central Asia",1988,66369.446,NA
+"Central Asia",1989,67508.919,NA
+"Central Asia",1990,68498.377,NA
+"Central Asia",1991,69321.723,NA
+"Central Asia",1992,69996.622,NA
+"Central Asia",1993,70548.083,NA
+"Central Asia",1994,71016.482,NA
+"Central Asia",1995,71436.188,NA
+"Central Asia",1996,71812.304,NA
+"Central Asia",1997,72149.756,NA
+"Central Asia",1998,72483.469,NA
+"Central Asia",1999,72855.557,NA
+"Central Asia",2000,73297.797,NA
+"Central Asia",2001,73828.752,NA
+"Central Asia",2002,74448.546,NA
+"Central Asia",2003,75147.018,NA
+"Central Asia",2004,75904.29,NA
+"Central Asia",2005,76706.376,NA
+"Central Asia",2006,77549.447,NA
+"Central Asia",2007,78441.568,NA
+"Central Asia",2008,79393.825,NA
+"Central Asia",2009,80421.66,NA
+"Central Asia",2010,81533.863,NA
+"Central Asia",2011,82731.388,NA
+"Central Asia",2012,84002.979,NA
+"Central Asia",2013,85329.746,NA
+"Central Asia",2014,86686.146,NA
+"Central Asia",2015,88050.929,88051
+"China",1971,852922.047,NA
+"China",1972,873708.928,NA
+"China",1973,893770.113,NA
+"China",1974,912822.473,NA
+"China",1975,930691.468,NA
+"China",1976,947250.822,NA
+"China",1977,962590.352,NA
+"China",1978,977047.642,NA
+"China",1979,991113.521,NA
+"China",1980,1005196.048,NA
+"China",1981,1019237.272,NA
+"China",1982,1033258.185,NA
+"China",1983,1047826.052,NA
+"China",1984,1063651.733,NA
+"China",1985,1081159.886,NA
+"China",1986,1100683.147,NA
+"China",1987,1121868.361,NA
+"China",1988,1143602.391,NA
+"China",1989,1164336.453,NA
+"China",1990,1182955.42,NA
+"China",1991,1199050.947,NA
+"China",1992,1212938.294,NA
+"China",1993,1225115.588,NA
+"China",1994,1236397.446,NA
+"China",1995,1247390.275,NA
+"China",1996,1258215.144,NA
+"China",1997,1268697.285,NA
+"China",1998,1278808.958,NA
+"China",1999,1288455.681,NA
+"China",2000,1297584.874,NA
+"China",2001,1306232.462,NA
+"China",2002,1314502.853,NA
+"China",2003,1322488.363,NA
+"China",2004,1330300.804,NA
+"China",2005,1338028.812,NA
+"China",2006,1345704.526,NA
+"China",2007,1353338.414,NA
+"China",2008,1360966.586,NA
+"China",2009,1368620.461,NA
+"China",2010,1376315.165,NA
+"China",2011,1384055.061,NA
+"China",2012,1391817.288,NA
+"China",2013,1399549.48,NA
+"China",2014,1407178.843,NA
+"China",2015,1414635.951,1414636
+"EU-12",1971,96618.314,NA
+"EU-12",1972,97351.282,NA
+"EU-12",1973,98097.307,NA
+"EU-12",1974,98857.18,NA
+"EU-12",1975,99629.13,NA
+"EU-12",1976,100415.424,NA
+"EU-12",1977,101209.727,NA
+"EU-12",1978,101991.241,NA
+"EU-12",1979,102732.562,NA
+"EU-12",1980,103413.573,NA
+"EU-12",1981,104022.29,NA
+"EU-12",1982,104561.385,NA
+"EU-12",1983,105043.006,NA
+"EU-12",1984,105486.807,NA
+"EU-12",1985,105905.389,NA
+"EU-12",1986,106304.911,NA
+"EU-12",1987,106675.22,NA
+"EU-12",1988,106993.445,NA
+"EU-12",1989,107228.087,NA
+"EU-12",1990,107358.032,NA
+"EU-12",1991,107376.061,NA
+"EU-12",1992,107293.495,NA
+"EU-12",1993,107130.764,NA
+"EU-12",1994,106917.619,NA
+"EU-12",1995,106677.191,NA
+"EU-12",1996,106417.454,NA
+"EU-12",1997,106137.577,NA
+"EU-12",1998,105841.67,NA
+"EU-12",1999,105531.879,NA
+"EU-12",2000,105210.927,NA
+"EU-12",2001,104882.197,NA
+"EU-12",2002,104550.799,NA
+"EU-12",2003,104222.261,NA
+"EU-12",2004,103902.438,NA
+"EU-12",2005,103595.469,NA
+"EU-12",2006,103304.736,NA
+"EU-12",2007,103029.626,NA
+"EU-12",2008,102765.197,NA
+"EU-12",2009,102503.791,NA
+"EU-12",2010,102239.815,NA
+"EU-12",2011,101971.889,NA
+"EU-12",2012,101701.47,NA
+"EU-12",2013,101429.166,NA
+"EU-12",2014,101156.53,NA
+"EU-12",2015,100884.548,100885
+"EU-15",1971,343010.473,NA
+"EU-15",1972,344927.845,NA
+"EU-15",1973,346754.218,NA
+"EU-15",1974,348457.004,NA
+"EU-15",1975,350013.879,NA
+"EU-15",1976,351425.519,NA
+"EU-15",1977,352704.875,NA
+"EU-15",1978,353858.625,NA
+"EU-15",1979,354897.39,NA
+"EU-15",1980,355835.052,NA
+"EU-15",1981,356673.867,NA
+"EU-15",1982,357430.395,NA
+"EU-15",1983,358151.276,NA
+"EU-15",1984,358895.673,NA
+"EU-15",1985,359708.67,NA
+"EU-15",1986,360601.101,NA
+"EU-15",1987,361569.932,NA
+"EU-15",1988,362626.8,NA
+"EU-15",1989,363780.27,NA
+"EU-15",1990,365030.167,NA
+"EU-15",1991,366408.243,NA
+"EU-15",1992,367902.87,NA
+"EU-15",1993,369418.158,NA
+"EU-15",1994,370823.446,NA
+"EU-15",1995,372035.444,NA
+"EU-15",1996,372998.788,NA
+"EU-15",1997,373767.802,NA
+"EU-15",1998,374502.257,NA
+"EU-15",1999,375426.866,NA
+"EU-15",2000,376697.7,NA
+"EU-15",2001,378368.007,NA
+"EU-15",2002,380372.6,NA
+"EU-15",2003,382602.739,NA
+"EU-15",2004,384894.519,NA
+"EU-15",2005,387123.011,NA
+"EU-15",2006,389260.572,NA
+"EU-15",2007,391327.269,NA
+"EU-15",2008,393302.451,NA
+"EU-15",2009,395173.413,NA
+"EU-15",2010,396932.386,NA
+"EU-15",2011,398551.18,NA
+"EU-15",2012,400024.216,NA
+"EU-15",2013,401395.366,NA
+"EU-15",2014,402728.701,NA
+"EU-15",2015,404066.185,404066
+"Europe_Eastern",1971,60068.612,NA
+"Europe_Eastern",1972,60537.96,NA
+"Europe_Eastern",1973,60998.307,NA
+"Europe_Eastern",1974,61437.851,NA
+"Europe_Eastern",1975,61848.489,NA
+"Europe_Eastern",1976,62227.155,NA
+"Europe_Eastern",1977,62577.86,NA
+"Europe_Eastern",1978,62908.068,NA
+"Europe_Eastern",1979,63228.572,NA
+"Europe_Eastern",1980,63546.797,NA
+"Europe_Eastern",1981,63862.431,NA
+"Europe_Eastern",1982,64171.285,NA
+"Europe_Eastern",1983,64471.895,NA
+"Europe_Eastern",1984,64761.704,NA
+"Europe_Eastern",1985,65037.017,NA
+"Europe_Eastern",1986,65297.15,NA
+"Europe_Eastern",1987,65536.873,NA
+"Europe_Eastern",1988,65741.931,NA
+"Europe_Eastern",1989,65894.216,NA
+"Europe_Eastern",1990,65979.803,NA
+"Europe_Eastern",1991,65997.12,NA
+"Europe_Eastern",1992,65947.092,NA
+"Europe_Eastern",1993,65822.283,NA
+"Europe_Eastern",1994,65614.849,NA
+"Europe_Eastern",1995,65321.99,NA
+"Europe_Eastern",1996,64941.551,NA
+"Europe_Eastern",1997,64483.142,NA
+"Europe_Eastern",1998,63971.346,NA
+"Europe_Eastern",1999,63439,NA
+"Europe_Eastern",2000,62912.355,NA
+"Europe_Eastern",2001,62400.15,NA
+"Europe_Eastern",2002,61904.192,NA
+"Europe_Eastern",2003,61434.97,NA
+"Europe_Eastern",2004,61002.086,NA
+"Europe_Eastern",2005,60612.153,NA
+"Europe_Eastern",2006,60270.543,NA
+"Europe_Eastern",2007,59977.004,NA
+"Europe_Eastern",2008,59724.457,NA
+"Europe_Eastern",2009,59501.611,NA
+"Europe_Eastern",2010,59298.745,NA
+"Europe_Eastern",2011,59114.328,NA
+"Europe_Eastern",2012,58946.66,NA
+"Europe_Eastern",2013,58785.08,NA
+"Europe_Eastern",2014,58616.674,NA
+"Europe_Eastern",2015,58431.762,58432
+"Europe_Non_EU",1971,56617.188,NA
+"Europe_Non_EU",1972,57691.249,NA
+"Europe_Non_EU",1973,58788.745,NA
+"Europe_Non_EU",1974,59903.097,NA
+"Europe_Non_EU",1975,61029.404,NA
+"Europe_Non_EU",1976,62163.523,NA
+"Europe_Non_EU",1977,63306.276,NA
+"Europe_Non_EU",1978,64463.334,NA
+"Europe_Non_EU",1979,65643.103,NA
+"Europe_Non_EU",1980,66849.891,NA
+"Europe_Non_EU",1981,68083.143,NA
+"Europe_Non_EU",1982,69334.858,NA
+"Europe_Non_EU",1983,70592.404,NA
+"Europe_Non_EU",1984,71839.069,NA
+"Europe_Non_EU",1985,73060.812,NA
+"Europe_Non_EU",1986,74256.86,NA
+"Europe_Non_EU",1987,75424.709,NA
+"Europe_Non_EU",1988,76546.765,NA
+"Europe_Non_EU",1989,77601.709,NA
+"Europe_Non_EU",1990,78576.535,NA
+"Europe_Non_EU",1991,79462.24,NA
+"Europe_Non_EU",1992,80268.355,NA
+"Europe_Non_EU",1993,81023.615,NA
+"Europe_Non_EU",1994,81768.467,NA
+"Europe_Non_EU",1995,82533.025,NA
+"Europe_Non_EU",1996,83326.51,NA
+"Europe_Non_EU",1997,84143.304,NA
+"Europe_Non_EU",1998,84980.412,NA
+"Europe_Non_EU",1999,85829.739,NA
+"Europe_Non_EU",2000,86684.682,NA
+"Europe_Non_EU",2001,87552.315,NA
+"Europe_Non_EU",2002,88435.504,NA
+"Europe_Non_EU",2003,89318.232,NA
+"Europe_Non_EU",2004,90178.721,NA
+"Europe_Non_EU",2005,91004.157,NA
+"Europe_Non_EU",2006,91782.937,NA
+"Europe_Non_EU",2007,92527.224,NA
+"Europe_Non_EU",2008,93276.925,NA
+"Europe_Non_EU",2009,94086.984,NA
+"Europe_Non_EU",2010,94994.918,NA
+"Europe_Non_EU",2011,96007.642,NA
+"Europe_Non_EU",2012,97106.312,NA
+"Europe_Non_EU",2013,98269.772,NA
+"Europe_Non_EU",2014,99465.887,NA
+"Europe_Non_EU",2015,100665.218,100665
+"European Free Trade Association",1971,10337.034,NA
+"European Free Trade Association",1972,10417.093,NA
+"European Free Trade Association",1973,10488.712,NA
+"European Free Trade Association",1974,10546.3,NA
+"European Free Trade Association",1975,10586.564,NA
+"European Free Trade Association",1976,10607.671,NA
+"European Free Trade Association",1977,10612.859,NA
+"European Free Trade Association",1978,10610.352,NA
+"European Free Trade Association",1979,10611.345,NA
+"European Free Trade Association",1980,10624.049,NA
+"European Free Trade Association",1981,10651.8,NA
+"European Free Trade Association",1982,10692.871,NA
+"European Free Trade Association",1983,10744.138,NA
+"European Free Trade Association",1984,10800.246,NA
+"European Free Trade Association",1985,10857.399,NA
+"European Free Trade Association",1986,10914.256,NA
+"European Free Trade Association",1987,10972.458,NA
+"European Free Trade Association",1988,11034.576,NA
+"European Free Trade Association",1989,11104.354,NA
+"European Free Trade Association",1990,11183.985,NA
+"European Free Trade Association",1991,11275.082,NA
+"European Free Trade Association",1992,11375.293,NA
+"European Free Trade Association",1993,11478.35,NA
+"European Free Trade Association",1994,11575.594,NA
+"European Free Trade Association",1995,11661.025,NA
+"European Free Trade Association",1996,11732.74,NA
+"European Free Trade Association",1997,11793.309,NA
+"European Free Trade Association",1998,11846.863,NA
+"European Free Trade Association",1999,11899.67,NA
+"European Free Trade Association",2000,11956.747,NA
+"European Free Trade Association",2001,12018.773,NA
+"European Free Trade Association",2002,12085.604,NA
+"European Free Trade Association",2003,12160.592,NA
+"European Free Trade Association",2004,12247.507,NA
+"European Free Trade Association",2005,12348.872,NA
+"European Free Trade Association",2006,12465.642,NA
+"European Free Trade Association",2007,12596.784,NA
+"European Free Trade Association",2008,12740.167,NA
+"European Free Trade Association",2009,12892.535,NA
+"European Free Trade Association",2010,13050.875,NA
+"European Free Trade Association",2011,13215.089,NA
+"European Free Trade Association",2012,13383.988,NA
+"European Free Trade Association",2013,13552.454,NA
+"European Free Trade Association",2014,13714.084,NA
+"European Free Trade Association",2015,13864.324,13864
+"India",1971,567868.018,NA
+"India",1972,581087.256,NA
+"India",1973,594770.134,NA
+"India",1974,608802.6,NA
+"India",1975,623102.897,NA
+"India",1976,637630.087,NA
+"India",1977,652408.776,NA
+"India",1978,667499.806,NA
+"India",1979,682995.354,NA
+"India",1980,698952.844,NA
+"India",1981,715384.993,NA
+"India",1982,732239.504,NA
+"India",1983,749428.958,NA
+"India",1984,766833.41,NA
+"India",1985,784360.008,NA
+"India",1986,801975.244,NA
+"India",1987,819682.102,NA
+"India",1988,837468.93,NA
+"India",1989,855334.678,NA
+"India",1990,873277.798,NA
+"India",1991,891273.209,NA
+"India",1992,909307.016,NA
+"India",1993,927403.86,NA
+"India",1994,945601.831,NA
+"India",1995,963922.588,NA
+"India",1996,982365.243,NA
+"India",1997,1000900.03,NA
+"India",1998,1019483.581,NA
+"India",1999,1038058.156,NA
+"India",2000,1056575.549,NA
+"India",2001,1075000.085,NA
+"India",2002,1093317.189,NA
+"India",2003,1111523.144,NA
+"India",2004,1129623.456,NA
+"India",2005,1147609.927,NA
+"India",2006,1165486.291,NA
+"India",2007,1183209.472,NA
+"India",2008,1200669.765,NA
+"India",2009,1217726.215,NA
+"India",2010,1234281.17,NA
+"India",2011,1250287.943,NA
+"India",2012,1265780.247,NA
+"India",2013,1280842.125,NA
+"India",2014,1295600.772,NA
+"India",2015,1310152.403,1310152
+"Indonesia",1971,117880.144,NA
+"Indonesia",1972,121017.314,NA
+"Indonesia",1973,124199.687,NA
+"Indonesia",1974,127422.211,NA
+"Indonesia",1975,130680.727,NA
+"Indonesia",1976,133966.941,NA
+"Indonesia",1977,137278.058,NA
+"Indonesia",1978,140621.73,NA
+"Indonesia",1979,144009.845,NA
+"Indonesia",1980,147447.836,NA
+"Indonesia",1981,150938.232,NA
+"Indonesia",1982,154468.229,NA
+"Indonesia",1983,158009.246,NA
+"Indonesia",1984,161523.347,NA
+"Indonesia",1985,164982.451,NA
+"Indonesia",1986,168374.287,NA
+"Indonesia",1987,171702.763,NA
+"Indonesia",1988,174975.954,NA
+"Indonesia",1989,178209.15,NA
+"Indonesia",1990,181413.402,NA
+"Indonesia",1991,184591.903,NA
+"Indonesia",1992,187739.786,NA
+"Indonesia",1993,190851.175,NA
+"Indonesia",1994,193917.462,NA
+"Indonesia",1995,196934.26,NA
+"Indonesia",1996,199901.228,NA
+"Indonesia",1997,202826.446,NA
+"Indonesia",1998,205724.592,NA
+"Indonesia",1999,208615.169,NA
+"Indonesia",2000,211513.823,NA
+"Indonesia",2001,214427.417,NA
+"Indonesia",2002,217357.793,NA
+"Indonesia",2003,220309.469,NA
+"Indonesia",2004,223285.676,NA
+"Indonesia",2005,226289.47,NA
+"Indonesia",2006,229318.262,NA
+"Indonesia",2007,232374.245,NA
+"Indonesia",2008,235469.762,NA
+"Indonesia",2009,238620.563,NA
+"Indonesia",2010,241834.215,NA
+"Indonesia",2011,245115.987,NA
+"Indonesia",2012,248451.722,NA
+"Indonesia",2013,251805.307,NA
+"Indonesia",2014,255128.076,NA
+"Indonesia",2015,258383.256,258383
+"Japan",1971,106427.103,NA
+"Japan",1972,107976.027,NA
+"Japan",1973,109528.512,NA
+"Japan",1974,111022.689,NA
+"Japan",1975,112413.359,NA
+"Japan",1976,113679.191,NA
+"Japan",1977,114827.832,NA
+"Japan",1978,115879.211,NA
+"Japan",1979,116867.356,NA
+"Japan",1980,117816.94,NA
+"Japan",1981,118732.841,NA
+"Japan",1982,119605.25,NA
+"Japan",1983,120427.636,NA
+"Japan",1984,121189.266,NA
+"Japan",1985,121883.482,NA
+"Japan",1986,122509.117,NA
+"Japan",1987,123072.71,NA
+"Japan",1988,123584.527,NA
+"Japan",1989,124058.52,NA
+"Japan",1990,124505.24,NA
+"Japan",1991,124929.772,NA
+"Japan",1992,125331.297,NA
+"Japan",1993,125707.411,NA
+"Japan",1994,126053.129,NA
+"Japan",1995,126365.484,NA
+"Japan",1996,126644.094,NA
+"Japan",1997,126892.738,NA
+"Japan",1998,127117.434,NA
+"Japan",1999,127326.07,NA
+"Japan",2000,127524.174,NA
+"Japan",2001,127713.828,NA
+"Japan",2002,127893.078,NA
+"Japan",2003,128058.372,NA
+"Japan",2004,128204.195,NA
+"Japan",2005,128326.116,NA
+"Japan",2006,128422.734,NA
+"Japan",2007,128494.057,NA
+"Japan",2008,128538.646,NA
+"Japan",2009,128555.189,NA
+"Japan",2010,128542.353,NA
+"Japan",2011,128498.965,NA
+"Japan",2012,128423.571,NA
+"Japan",2013,128314.195,NA
+"Japan",2014,128168.639,NA
+"Japan",2015,127985.133,127985
+"Mexico",1971,53076.373,NA
+"Mexico",1972,54689.943,NA
+"Mexico",1973,56324.303,NA
+"Mexico",1974,57966.804,NA
+"Mexico",1975,59607.953,NA
+"Mexico",1976,61242.19,NA
+"Mexico",1977,62869.903,NA
+"Mexico",1978,64494.869,NA
+"Mexico",1979,66123.897,NA
+"Mexico",1980,67761.372,NA
+"Mexico",1981,69407.624,NA
+"Mexico",1982,71058.654,NA
+"Mexico",1983,72709.299,NA
+"Mexico",1984,74352.631,NA
+"Mexico",1985,75983.485,NA
+"Mexico",1986,77599.098,NA
+"Mexico",1987,79200.081,NA
+"Mexico",1988,80788.721,NA
+"Mexico",1989,82368.931,NA
+"Mexico",1990,83943.132,NA
+"Mexico",1991,85512.623,NA
+"Mexico",1992,87075.138,NA
+"Mexico",1993,88625.44,NA
+"Mexico",1994,90156.4,NA
+"Mexico",1995,91663.285,NA
+"Mexico",1996,93147.044,NA
+"Mexico",1997,94611.002,NA
+"Mexico",1998,96056.321,NA
+"Mexico",1999,97484.832,NA
+"Mexico",2000,98899.845,NA
+"Mexico",2001,100298.153,NA
+"Mexico",2002,101684.758,NA
+"Mexico",2003,103081.02,NA
+"Mexico",2004,104514.932,NA
+"Mexico",2005,106005.203,NA
+"Mexico",2006,107560.153,NA
+"Mexico",2007,109170.502,NA
+"Mexico",2008,110815.271,NA
+"Mexico",2009,112463.887,NA
+"Mexico",2010,114092.963,NA
+"Mexico",2011,115695.473,NA
+"Mexico",2012,117274.155,NA
+"Mexico",2013,118827.161,NA
+"Mexico",2014,120355.128,NA
+"Mexico",2015,121858.258,121858
+"Middle East",1971,68871.506,NA
+"Middle East",1972,71056.092,NA
+"Middle East",1973,73352.603,NA
+"Middle East",1974,75764.614,NA
+"Middle East",1975,78297.856,NA
+"Middle East",1976,80945.557,NA
+"Middle East",1977,83716.317,NA
+"Middle East",1978,86647.971,NA
+"Middle East",1979,89789.842,NA
+"Middle East",1980,93172.034,NA
+"Middle East",1981,96803.65,NA
+"Middle East",1982,100658.222,NA
+"Middle East",1983,104684.497,NA
+"Middle East",1984,108811.112,NA
+"Middle East",1985,112979.835,NA
+"Middle East",1986,117172.484,NA
+"Middle East",1987,121382.243,NA
+"Middle East",1988,125575.7,NA
+"Middle East",1989,129717.766,NA
+"Middle East",1990,133782.136,NA
+"Middle East",1991,137758.607,NA
+"Middle East",1992,141646.351,NA
+"Middle East",1993,145442.779,NA
+"Middle East",1994,149150.213,NA
+"Middle East",1995,152776.882,NA
+"Middle East",1996,156326.5,NA
+"Middle East",1997,159817.521,NA
+"Middle East",1998,163293.723,NA
+"Middle East",1999,166811.389,NA
+"Middle East",2000,170418.771,NA
+"Middle East",2001,174112.321,NA
+"Middle East",2002,177902.4,NA
+"Middle East",2003,181864.717,NA
+"Middle East",2004,186093.1,NA
+"Middle East",2005,190643.112,NA
+"Middle East",2006,195553.45,NA
+"Middle East",2007,200775.481,NA
+"Middle East",2008,206167.441,NA
+"Middle East",2009,211532.256,NA
+"Middle East",2010,216724.071,NA
+"Middle East",2011,221569.188,NA
+"Middle East",2012,226513.844,NA
+"Middle East",2013,231144.18,NA
+"Middle East",2014,235640.248,NA
+"Middle East",2015,240168.583,240169
+"Pakistan",1971,59734.481,NA
+"Pakistan",1972,61381.987,NA
+"Pakistan",1973,63099.406,NA
+"Pakistan",1974,64905.998,NA
+"Pakistan",1975,66816.877,NA
+"Pakistan",1976,68834.326,NA
+"Pakistan",1977,70958.169,NA
+"Pakistan",1978,73197.258,NA
+"Pakistan",1979,75561.131,NA
+"Pakistan",1980,78054.343,NA
+"Pakistan",1981,80680.459,NA
+"Pakistan",1982,83431.605,NA
+"Pakistan",1983,86285.935,NA
+"Pakistan",1984,89213.706,NA
+"Pakistan",1985,92191.51,NA
+"Pakistan",1986,95215.378,NA
+"Pakistan",1987,98285.755,NA
+"Pakistan",1988,101389.603,NA
+"Pakistan",1989,104512.881,NA
+"Pakistan",1990,107647.921,NA
+"Pakistan",1991,110778.648,NA
+"Pakistan",1992,113911.126,NA
+"Pakistan",1993,117086.685,NA
+"Pakistan",1994,120362.762,NA
+"Pakistan",1995,123776.839,NA
+"Pakistan",1996,127349.29,NA
+"Pakistan",1997,131057.431,NA
+"Pakistan",1998,134843.233,NA
+"Pakistan",1999,138624.621,NA
+"Pakistan",2000,142343.578,NA
+"Pakistan",2001,145978.402,NA
+"Pakistan",2002,149549.7,NA
+"Pakistan",2003,153093.373,NA
+"Pakistan",2004,156664.697,NA
+"Pakistan",2005,160304.008,NA
+"Pakistan",2006,164022.627,NA
+"Pakistan",2007,167808.105,NA
+"Pakistan",2008,171648.986,NA
+"Pakistan",2009,175525.609,NA
+"Pakistan",2010,179424.641,NA
+"Pakistan",2011,183340.174,NA
+"Pakistan",2012,187280.129,NA
+"Pakistan",2013,191260.806,NA
+"Pakistan",2014,195305.013,NA
+"Pakistan",2015,199426.964,199427
+"Russia",1971,130830.719,NA
+"Russia",1972,131539.634,NA
+"Russia",1973,132275.731,NA
+"Russia",1974,133032.262,NA
+"Russia",1975,133804.858,NA
+"Russia",1976,134596.232,NA
+"Russia",1977,135413.334,NA
+"Russia",1978,136259.824,NA
+"Russia",1979,137139.388,NA
+"Russia",1980,138053.15,NA
+"Russia",1981,138993.847,NA
+"Russia",1982,139954.624,NA
+"Russia",1983,140935.78,NA
+"Russia",1984,141938.487,NA
+"Russia",1985,142957.284,NA
+"Russia",1986,143995.348,NA
+"Russia",1987,145032.888,NA
+"Russia",1988,146013.488,NA
+"Russia",1989,146863.931,NA
+"Russia",1990,147531.561,NA
+"Russia",1991,147995.593,NA
+"Russia",1992,148268.581,NA
+"Russia",1993,148373.58,NA
+"Russia",1994,148349.441,NA
+"Russia",1995,148227.466,NA
+"Russia",1996,148020.847,NA
+"Russia",1997,147730.019,NA
+"Russia",1998,147360.604,NA
+"Russia",1999,146915.915,NA
+"Russia",2000,146404.903,NA
+"Russia",2001,145830.721,NA
+"Russia",2002,145215.7,NA
+"Russia",2003,144610.882,NA
+"Russia",2004,144080.643,NA
+"Russia",2005,143672.116,NA
+"Russia",2006,143403.256,NA
+"Russia",2007,143266.212,NA
+"Russia",2008,143248.764,NA
+"Russia",2009,143326.913,NA
+"Russia",2010,143479.274,NA
+"Russia",2011,143703.025,NA
+"Russia",2012,143993.892,NA
+"Russia",2013,144325.449,NA
+"Russia",2014,144664.841,NA
+"Russia",2015,144985.057,144985
+"South Africa",1971,22665.271,NA
+"South Africa",1972,23281.508,NA
+"South Africa",1973,23913.099,NA
+"South Africa",1974,24552.54,NA
+"South Africa",1975,25195.187,NA
+"South Africa",1976,25836.888,NA
+"South Africa",1977,26480.913,NA
+"South Africa",1978,27138.965,NA
+"South Africa",1979,27827.32,NA
+"South Africa",1980,28556.769,NA
+"South Africa",1981,29333.103,NA
+"South Africa",1982,30150.448,NA
+"South Africa",1983,30993.758,NA
+"South Africa",1984,31841.593,NA
+"South Africa",1985,32678.874,NA
+"South Africa",1986,33495.953,NA
+"South Africa",1987,34297.727,NA
+"South Africa",1988,35100.909,NA
+"South Africa",1989,35930.05,NA
+"South Africa",1990,36800.509,NA
+"South Africa",1991,37718.95,NA
+"South Africa",1992,38672.607,NA
+"South Africa",1993,39633.75,NA
+"South Africa",1994,40564.059,NA
+"South Africa",1995,41435.758,NA
+"South Africa",1996,42241.011,NA
+"South Africa",1997,42987.461,NA
+"South Africa",1998,43682.26,NA
+"South Africa",1999,44338.543,NA
+"South Africa",2000,44967.708,NA
+"South Africa",2001,45571.274,NA
+"South Africa",2002,46150.913,NA
+"South Africa",2003,46719.196,NA
+"South Africa",2004,47291.61,NA
+"South Africa",2005,47880.601,NA
+"South Africa",2006,48489.459,NA
+"South Africa",2007,49119.759,NA
+"South Africa",2008,49779.471,NA
+"South Africa",2009,50477.011,NA
+"South Africa",2010,51216.964,NA
+"South Africa",2011,52003.755,NA
+"South Africa",2012,52832.658,NA
+"South Africa",2013,53687.121,NA
+"South Africa",2014,54544.186,NA
+"South Africa",2015,55386.367,55386
+"South America_Northern",1971,12878.494,NA
+"South America_Northern",1972,13238.818,NA
+"South America_Northern",1973,13601.429,NA
+"South America_Northern",1974,13970.989,NA
+"South America_Northern",1975,14350.799,NA
+"South America_Northern",1976,14742.257,NA
+"South America_Northern",1977,15144.334,NA
+"South America_Northern",1978,15554.882,NA
+"South America_Northern",1979,15970.624,NA
+"South America_Northern",1980,16389.26,NA
+"South America_Northern",1981,16809.79,NA
+"South America_Northern",1982,17233.159,NA
+"South America_Northern",1983,17661.591,NA
+"South America_Northern",1984,18098.217,NA
+"South America_Northern",1985,18545.032,NA
+"South America_Northern",1986,19002.526,NA
+"South America_Northern",1987,19469.193,NA
+"South America_Northern",1988,19942.593,NA
+"South America_Northern",1989,20419.404,NA
+"South America_Northern",1990,20896.926,NA
+"South America_Northern",1991,21374.474,NA
+"South America_Northern",1992,21852.018,NA
+"South America_Northern",1993,22328.226,NA
+"South America_Northern",1994,22801.726,NA
+"South America_Northern",1995,23271.626,NA
+"South America_Northern",1996,23736.451,NA
+"South America_Northern",1997,24196.202,NA
+"South America_Northern",1998,24653.425,NA
+"South America_Northern",1999,25111.702,NA
+"South America_Northern",2000,25573.275,NA
+"South America_Northern",2001,26038.711,NA
+"South America_Northern",2002,26505.975,NA
+"South America_Northern",2003,26971.733,NA
+"South America_Northern",2004,27431.324,NA
+"South America_Northern",2005,27881.045,NA
+"South America_Northern",2006,28311.722,NA
+"South America_Northern",2007,28721.45,NA
+"South America_Northern",2008,29121.768,NA
+"South America_Northern",2009,29529.378,NA
+"South America_Northern",2010,29951.509,NA
+"South America_Northern",2011,30413.465,NA
+"South America_Northern",2012,30901.147,NA
+"South America_Northern",2013,31336.67,NA
+"South America_Northern",2014,31614.394,NA
+"South America_Northern",2015,31669.403,31669
+"South America_Southern",1971,39962.406,NA
+"South America_Southern",1972,40856.019,NA
+"South America_Southern",1973,41763.978,NA
+"South America_Southern",1974,42689.333,NA
+"South America_Southern",1975,43634.221,NA
+"South America_Southern",1976,44599.932,NA
+"South America_Southern",1977,45585.746,NA
+"South America_Southern",1978,46588.923,NA
+"South America_Southern",1979,47605.589,NA
+"South America_Southern",1980,48633.093,NA
+"South America_Southern",1981,49669.68,NA
+"South America_Southern",1982,50716.693,NA
+"South America_Southern",1983,51777.928,NA
+"South America_Southern",1984,52858.984,NA
+"South America_Southern",1985,53963.406,NA
+"South America_Southern",1986,55091.534,NA
+"South America_Southern",1987,56240.713,NA
+"South America_Southern",1988,57407.444,NA
+"South America_Southern",1989,58586.917,NA
+"South America_Southern",1990,59774.848,NA
+"South America_Southern",1991,60967.569,NA
+"South America_Southern",1992,62163.166,NA
+"South America_Southern",1993,63360.65,NA
+"South America_Southern",1994,64559.787,NA
+"South America_Southern",1995,65758.692,NA
+"South America_Southern",1996,66958.648,NA
+"South America_Southern",1997,68154.348,NA
+"South America_Southern",1998,69329.897,NA
+"South America_Southern",1999,70464.635,NA
+"South America_Southern",2000,71544.621,NA
+"South America_Southern",2001,72564.217,NA
+"South America_Southern",2002,73529.658,NA
+"South America_Southern",2003,74454.03,NA
+"South America_Southern",2004,75356.636,NA
+"South America_Southern",2005,76252.918,NA
+"South America_Southern",2006,77150,NA
+"South America_Southern",2007,78048.419,NA
+"South America_Southern",2008,78949.285,NA
+"South America_Southern",2009,79851.694,NA
+"South America_Southern",2010,80757.212,NA
+"South America_Southern",2011,81657.642,NA
+"South America_Southern",2012,82559.4,NA
+"South America_Southern",2013,83495.064,NA
+"South America_Southern",2014,84507.637,NA
+"South America_Southern",2015,85622.592,85623
+"South Asia",1971,102505.138,NA
+"South Asia",1972,104442.473,NA
+"South Asia",1973,106305.418,NA
+"South Asia",1974,108257.967,NA
+"South Asia",1975,110415.789,NA
+"South Asia",1976,112828.132,NA
+"South Asia",1977,115452.98,NA
+"South Asia",1978,118204.667,NA
+"South Asia",1979,120954.363,NA
+"South Asia",1980,123613.385,NA
+"South Asia",1981,126161.184,NA
+"South Asia",1982,128644.078,NA
+"South Asia",1983,131121.559,NA
+"South Asia",1984,133681.099,NA
+"South Asia",1985,136390.784,NA
+"South Asia",1986,139247.27,NA
+"South Asia",1987,142240.682,NA
+"South Asia",1988,145422.622,NA
+"South Asia",1989,148854.844,NA
+"South Asia",1990,152569.477,NA
+"South Asia",1991,156603.76,NA
+"South Asia",1992,160915.172,NA
+"South Asia",1993,165357.241,NA
+"South Asia",1994,169729.276,NA
+"South Asia",1995,173888.329,NA
+"South Asia",1996,177761.657,NA
+"South Asia",1997,181388.916,NA
+"South Asia",1998,184875.894,NA
+"South Asia",1999,188385.151,NA
+"South Asia",2000,192026.937,NA
+"South Asia",2001,195844.472,NA
+"South Asia",2002,199777.169,NA
+"South Asia",2003,203707.905,NA
+"South Asia",2004,207469.693,NA
+"South Asia",2005,210947.617,NA
+"South Asia",2006,214101.778,NA
+"South Asia",2007,216985.582,NA
+"South Asia",2008,219692.068,NA
+"South Asia",2009,222358.374,NA
+"South Asia",2010,225087.123,NA
+"South Asia",2011,227904.062,NA
+"South Asia",2012,230787.696,NA
+"South Asia",2013,233736.676,NA
+"South Asia",2014,236736.735,NA
+"South Asia",2015,239775.728,239776
+"South Korea",1971,32850.72,NA
+"South Korea",1972,33506.523,NA
+"South Korea",1973,34154.087,NA
+"South Korea",1974,34780.882,NA
+"South Korea",1975,35378.661,NA
+"South Korea",1976,35942.029,NA
+"South Korea",1977,36475.413,NA
+"South Korea",1978,36992.188,NA
+"South Korea",1979,37511.315,NA
+"South Korea",1980,38045.607,NA
+"South Korea",1981,38602.289,NA
+"South Korea",1982,39175.212,NA
+"South Korea",1983,39747.794,NA
+"South Korea",1984,40296.228,NA
+"South Korea",1985,40804.402,NA
+"South Korea",1986,41265.113,NA
+"South Korea",1987,41686.56,NA
+"South Korea",1988,42086.662,NA
+"South Korea",1989,42491.198,NA
+"South Korea",1990,42918.419,NA
+"South Korea",1991,43373.151,NA
+"South Korea",1992,43848.218,NA
+"South Korea",1993,44335.028,NA
+"South Korea",1994,44820.073,NA
+"South Korea",1995,45292.522,NA
+"South Korea",1996,45751.022,NA
+"South Korea",1997,46196.054,NA
+"South Korea",1998,46620.691,NA
+"South Korea",1999,47016.957,NA
+"South Korea",2000,47379.241,NA
+"South Korea",2001,47706.224,NA
+"South Korea",2002,47999.547,NA
+"South Korea",2003,48260.897,NA
+"South Korea",2004,48493.441,NA
+"South Korea",2005,48701.073,NA
+"South Korea",2006,48880.451,NA
+"South Korea",2007,49034.81,NA
+"South Korea",2008,49182.456,NA
+"South Korea",2009,49347.461,NA
+"South Korea",2010,49545.636,NA
+"South Korea",2011,49786.159,NA
+"South Korea",2012,50060.639,NA
+"South Korea",2013,50345.717,NA
+"South Korea",2014,50607.907,NA
+"South Korea",2015,50823.093,50823
+"Southeast Asia",1971,190314.136,NA
+"Southeast Asia",1972,195274.975,NA
+"Southeast Asia",1973,200249.389,NA
+"Southeast Asia",1974,205159.007,NA
+"Southeast Asia",1975,209955.004,NA
+"Southeast Asia",1976,214604.692,NA
+"Southeast Asia",1977,219143.444,NA
+"Southeast Asia",1978,223674.864,NA
+"Southeast Asia",1979,228343.713,NA
+"Southeast Asia",1980,233253.201,NA
+"Southeast Asia",1981,238433.558,NA
+"Southeast Asia",1982,243849.863,NA
+"Southeast Asia",1983,249459.196,NA
+"Southeast Asia",1984,255191.53,NA
+"Southeast Asia",1985,260989.909,NA
+"Southeast Asia",1986,266845.663,NA
+"Southeast Asia",1987,272758.986,NA
+"Southeast Asia",1988,278690.503,NA
+"Southeast Asia",1989,284594.214,NA
+"Southeast Asia",1990,290435.33,NA
+"Southeast Asia",1991,296186.551,NA
+"Southeast Asia",1992,301844.52,NA
+"Southeast Asia",1993,307428.038,NA
+"Southeast Asia",1994,312970.013,NA
+"Southeast Asia",1995,318490.683,NA
+"Southeast Asia",1996,323998.185,NA
+"Southeast Asia",1997,329471.413,NA
+"Southeast Asia",1998,334867.461,NA
+"Southeast Asia",1999,340128.319,NA
+"Southeast Asia",2000,345214.489,NA
+"Southeast Asia",2001,350113.485,NA
+"Southeast Asia",2002,354844.25,NA
+"Southeast Asia",2003,359438.652,NA
+"Southeast Asia",2004,363944.089,NA
+"Southeast Asia",2005,368398.888,NA
+"Southeast Asia",2006,372807.253,NA
+"Southeast Asia",2007,377169.843,NA
+"Southeast Asia",2008,381517.128,NA
+"Southeast Asia",2009,385885.209,NA
+"Southeast Asia",2010,390297.499,NA
+"Southeast Asia",2011,394770.256,NA
+"Southeast Asia",2012,399293.24,NA
+"Southeast Asia",2013,403829.391,NA
+"Southeast Asia",2014,408325.184,NA
+"Southeast Asia",2015,412740.725,412741
+"Taiwan",1971,15268.155,NA
+"Taiwan",1972,15586.145,NA
+"Taiwan",1973,15885.237,NA
+"Taiwan",1974,16175.601,NA
+"Taiwan",1975,16464.927,NA
+"Taiwan",1976,16754.741,NA
+"Taiwan",1977,17043.388,NA
+"Taiwan",1978,17331.483,NA
+"Taiwan",1979,17618.933,NA
+"Taiwan",1980,17905.458,NA
+"Taiwan",1981,18191.732,NA
+"Taiwan",1982,18477.495,NA
+"Taiwan",1983,18760.25,NA
+"Taiwan",1984,19036.465,NA
+"Taiwan",1985,19303.404,NA
+"Taiwan",1986,19560.161,NA
+"Taiwan",1987,19806.733,NA
+"Taiwan",1988,20042.359,NA
+"Taiwan",1989,20266.429,NA
+"Taiwan",1990,20478.52,NA
+"Taiwan",1991,20679.065,NA
+"Taiwan",1992,20868.148,NA
+"Taiwan",1993,21044.7,NA
+"Taiwan",1994,21207.423,NA
+"Taiwan",1995,21356.033,NA
+"Taiwan",1996,21488.99,NA
+"Taiwan",1997,21608.306,NA
+"Taiwan",1998,21721.516,NA
+"Taiwan",1999,21838.633,NA
+"Taiwan",2000,21966.527,NA
+"Taiwan",2001,22108.713,NA
+"Taiwan",2002,22262.299,NA
+"Taiwan",2003,22419.792,NA
+"Taiwan",2004,22570.224,NA
+"Taiwan",2005,22705.713,NA
+"Taiwan",2006,22823.848,NA
+"Taiwan",2007,22927.215,NA
+"Taiwan",2008,23019.045,NA
+"Taiwan",2009,23104.546,NA
+"Taiwan",2010,23187.551,NA
+"Taiwan",2011,23268.765,NA
+"Taiwan",2012,23346.896,NA
+"Taiwan",2013,23421.582,NA
+"Taiwan",2014,23491.976,NA
+"Taiwan",2015,23557.477,23557
+"Argentina",1971,24259.561,NA
+"Argentina",1972,24653.175,NA
+"Argentina",1973,25056.478,NA
+"Argentina",1974,25462.302,NA
+"Argentina",1975,25865.776,NA
+"Argentina",1976,26264.681,NA
+"Argentina",1977,26661.398,NA
+"Argentina",1978,27061.047,NA
+"Argentina",1979,27471.036,NA
+"Argentina",1980,27896.528,NA
+"Argentina",1981,28338.515,NA
+"Argentina",1982,28794.548,NA
+"Argentina",1983,29262.047,NA
+"Argentina",1984,29737.093,NA
+"Argentina",1985,30216.279,NA
+"Argentina",1986,30698.964,NA
+"Argentina",1987,31184.415,NA
+"Argentina",1988,31668.949,NA
+"Argentina",1989,32148.134,NA
+"Argentina",1990,32618.651,NA
+"Argentina",1991,33079,NA
+"Argentina",1992,33529.326,NA
+"Argentina",1993,33970.111,NA
+"Argentina",1994,34402.672,NA
+"Argentina",1995,34828.17,NA
+"Argentina",1996,35246.374,NA
+"Argentina",1997,35657.429,NA
+"Argentina",1998,36063.459,NA
+"Argentina",1999,36467.218,NA
+"Argentina",2000,36870.787,NA
+"Argentina",2001,37275.652,NA
+"Argentina",2002,37681.749,NA
+"Argentina",2003,38087.868,NA
+"Argentina",2004,38491.972,NA
+"Argentina",2005,38892.931,NA
+"Argentina",2006,39289.878,NA
+"Argentina",2007,39684.295,NA
+"Argentina",2008,40080.16,NA
+"Argentina",2009,40482.788,NA
+"Argentina",2010,40895.752,NA
+"Argentina",2011,41320.5,NA
+"Argentina",2012,41755.196,NA
+"Argentina",2013,42196.03,NA
+"Argentina",2014,42637.511,NA
+"Argentina",2015,43075.416,43075
+"Colombia",1971,22003.98,NA
+"Colombia",1972,22516.425,NA
+"Colombia",1973,23024.517,NA
+"Colombia",1974,23538.386,NA
+"Colombia",1975,24065.507,NA
+"Colombia",1976,24608.113,NA
+"Colombia",1977,25164.545,NA
+"Colombia",1978,25733.673,NA
+"Colombia",1979,26312.994,NA
+"Colombia",1980,26900.506,NA
+"Colombia",1981,27496.617,NA
+"Colombia",1982,28101.819,NA
+"Colombia",1983,28714.19,NA
+"Colombia",1984,29331.238,NA
+"Colombia",1985,29951.201,NA
+"Colombia",1986,30572.478,NA
+"Colombia",1987,31195.413,NA
+"Colombia",1988,31822.525,NA
+"Colombia",1989,32457.499,NA
+"Colombia",1990,33102.575,NA
+"Colombia",1991,33758.337,NA
+"Colombia",1992,34422.569,NA
+"Colombia",1993,35091.275,NA
+"Colombia",1994,35758.979,NA
+"Colombia",1995,36421.438,NA
+"Colombia",1996,37076.387,NA
+"Colombia",1997,37723.8,NA
+"Colombia",1998,38364.309,NA
+"Colombia",1999,38999.471,NA
+"Colombia",2000,39629.968,NA
+"Colombia",2001,40255.967,NA
+"Colombia",2002,40875.36,NA
+"Colombia",2003,41483.869,NA
+"Colombia",2004,42075.955,NA
+"Colombia",2005,42647.723,NA
+"Colombia",2006,43200.897,NA
+"Colombia",2007,43737.516,NA
+"Colombia",2008,44254.975,NA
+"Colombia",2009,44750.054,NA
+"Colombia",2010,45222.7,NA
+"Colombia",2011,45662.748,NA
+"Colombia",2012,46075.718,NA
+"Colombia",2013,46495.493,NA
+"Colombia",2014,46967.696,NA
+"Colombia",2015,47520.667,47521
+"USA",2020,NA,337150
+"USA",2025,NA,349942
+"USA",2030,NA,362126
+"USA",2035,NA,373482
+"USA",2040,NA,383986
+"USA",2045,NA,393596
+"USA",2050,NA,402689
+"USA",2055,NA,411756
+"USA",2060,NA,420930
+"USA",2065,NA,429574
+"USA",2070,NA,437286
+"USA",2075,NA,443787
+"USA",2080,NA,448905
+"USA",2085,NA,452695
+"USA",2090,NA,455351
+"USA",2095,NA,456992
+"USA",2100,NA,457531
+"Africa_Eastern",2020,NA,327652
+"Africa_Eastern",2025,NA,363312
+"Africa_Eastern",2030,NA,398928
+"Africa_Eastern",2035,NA,433912
+"Africa_Eastern",2040,NA,467666
+"Africa_Eastern",2045,NA,499664
+"Africa_Eastern",2050,NA,529402
+"Africa_Eastern",2055,NA,556634
+"Africa_Eastern",2060,NA,581206
+"Africa_Eastern",2065,NA,603136
+"Africa_Eastern",2070,NA,622472
+"Africa_Eastern",2075,NA,639201
+"Africa_Eastern",2080,NA,653078
+"Africa_Eastern",2085,NA,664120
+"Africa_Eastern",2090,NA,672314
+"Africa_Eastern",2095,NA,678024
+"Africa_Eastern",2100,NA,681323
+"Africa_Northern",2020,NA,196801
+"Africa_Northern",2025,NA,207480
+"Africa_Northern",2030,NA,216852
+"Africa_Northern",2035,NA,225136
+"Africa_Northern",2040,NA,232477
+"Africa_Northern",2045,NA,238781
+"Africa_Northern",2050,NA,243731
+"Africa_Northern",2055,NA,247357
+"Africa_Northern",2060,NA,249677
+"Africa_Northern",2065,NA,250848
+"Africa_Northern",2070,NA,250893
+"Africa_Northern",2075,NA,249970
+"Africa_Northern",2080,NA,248377
+"Africa_Northern",2085,NA,246266
+"Africa_Northern",2090,NA,243811
+"Africa_Northern",2095,NA,240965
+"Africa_Northern",2100,NA,237829
+"Africa_Southern",2020,NA,179810
+"Africa_Southern",2025,NA,199719
+"Africa_Southern",2030,NA,219910
+"Africa_Southern",2035,NA,240067
+"Africa_Southern",2040,NA,260006
+"Africa_Southern",2045,NA,279087
+"Africa_Southern",2050,NA,297214
+"Africa_Southern",2055,NA,313929
+"Africa_Southern",2060,NA,329226
+"Africa_Southern",2065,NA,343254
+"Africa_Southern",2070,NA,355958
+"Africa_Southern",2075,NA,367099
+"Africa_Southern",2080,NA,376885
+"Africa_Southern",2085,NA,385319
+"Africa_Southern",2090,NA,392092
+"Africa_Southern",2095,NA,397271
+"Africa_Southern",2100,NA,400909
+"Africa_Western",2020,NA,537465
+"Africa_Western",2025,NA,599748
+"Africa_Western",2030,NA,664116
+"Africa_Western",2035,NA,729808
+"Africa_Western",2040,NA,795629
+"Africa_Western",2045,NA,860599
+"Africa_Western",2050,NA,924076
+"Africa_Western",2055,NA,982617
+"Africa_Western",2060,NA,1036428
+"Africa_Western",2065,NA,1086774
+"Africa_Western",2070,NA,1133098
+"Africa_Western",2075,NA,1174799
+"Africa_Western",2080,NA,1211622
+"Africa_Western",2085,NA,1243151
+"Africa_Western",2090,NA,1269546
+"Africa_Western",2095,NA,1291417
+"Africa_Western",2100,NA,1309175
+"Australia_NZ",2020,NA,30619
+"Australia_NZ",2025,NA,32663
+"Australia_NZ",2030,NA,34591
+"Australia_NZ",2035,NA,36424
+"Australia_NZ",2040,NA,38212
+"Australia_NZ",2045,NA,39967
+"Australia_NZ",2050,NA,41667
+"Australia_NZ",2055,NA,43281
+"Australia_NZ",2060,NA,44784
+"Australia_NZ",2065,NA,46069
+"Australia_NZ",2070,NA,47145
+"Australia_NZ",2075,NA,48016
+"Australia_NZ",2080,NA,48667
+"Australia_NZ",2085,NA,49082
+"Australia_NZ",2090,NA,49233
+"Australia_NZ",2095,NA,49103
+"Australia_NZ",2100,NA,48725
+"Brazil",2020,NA,212114
+"Brazil",2025,NA,218835
+"Brazil",2030,NA,224269
+"Brazil",2035,NA,228418
+"Brazil",2040,NA,231336
+"Brazil",2045,NA,233038
+"Brazil",2050,NA,233377
+"Brazil",2055,NA,232304
+"Brazil",2060,NA,230153
+"Brazil",2065,NA,227015
+"Brazil",2070,NA,223022
+"Brazil",2075,NA,218264
+"Brazil",2080,NA,212960
+"Brazil",2085,NA,207279
+"Brazil",2090,NA,201425
+"Brazil",2095,NA,195525
+"Brazil",2100,NA,189641
+"Canada",2020,NA,37942
+"Canada",2025,NA,39827
+"Canada",2030,NA,41578
+"Canada",2035,NA,43194
+"Canada",2040,NA,44749
+"Canada",2045,NA,46285
+"Canada",2050,NA,47808
+"Canada",2055,NA,49283
+"Canada",2060,NA,50702
+"Canada",2065,NA,51943
+"Canada",2070,NA,53010
+"Canada",2075,NA,53899
+"Canada",2080,NA,54577
+"Canada",2085,NA,55014
+"Canada",2090,NA,55203
+"Canada",2095,NA,55088
+"Canada",2100,NA,54679
+"Central America and Caribbean",2020,NA,90410
+"Central America and Caribbean",2025,NA,94236
+"Central America and Caribbean",2030,NA,97597
+"Central America and Caribbean",2035,NA,100446
+"Central America and Caribbean",2040,NA,102754
+"Central America and Caribbean",2045,NA,104535
+"Central America and Caribbean",2050,NA,105763
+"Central America and Caribbean",2055,NA,106465
+"Central America and Caribbean",2060,NA,106650
+"Central America and Caribbean",2065,NA,106558
+"Central America and Caribbean",2070,NA,106227
+"Central America and Caribbean",2075,NA,105638
+"Central America and Caribbean",2080,NA,104841
+"Central America and Caribbean",2085,NA,103819
+"Central America and Caribbean",2090,NA,102640
+"Central America and Caribbean",2095,NA,101344
+"Central America and Caribbean",2100,NA,99983
+"Central Asia",2020,NA,91528
+"Central Asia",2025,NA,94287
+"Central Asia",2030,NA,96353
+"Central Asia",2035,NA,97911
+"Central Asia",2040,NA,99103
+"Central Asia",2045,NA,99832
+"Central Asia",2050,NA,99981
+"Central Asia",2055,NA,99590
+"Central Asia",2060,NA,98781
+"Central Asia",2065,NA,97769
+"Central Asia",2070,NA,96551
+"Central Asia",2075,NA,95122
+"Central Asia",2080,NA,93500
+"Central Asia",2085,NA,91781
+"Central Asia",2090,NA,90071
+"Central Asia",2095,NA,88412
+"Central Asia",2100,NA,86771
+"China",2020,NA,1431256
+"China",2025,NA,1437681
+"China",2030,NA,1433379
+"China",2035,NA,1417835
+"China",2040,NA,1391617
+"China",2045,NA,1356311
+"China",2050,NA,1313216
+"China",2055,NA,1264144
+"China",2060,NA,1211040
+"China",2065,NA,1156065
+"China",2070,NA,1101079
+"China",2075,NA,1046473
+"China",2080,NA,992245
+"China",2085,NA,939257
+"China",2090,NA,889160
+"China",2095,NA,842988
+"China",2100,NA,800756
+"EU-12",2020,NA,100489
+"EU-12",2025,NA,99871
+"EU-12",2030,NA,98929
+"EU-12",2035,NA,97638
+"EU-12",2040,NA,96191
+"EU-12",2045,NA,94712
+"EU-12",2050,NA,93190
+"EU-12",2055,NA,91540
+"EU-12",2060,NA,89687
+"EU-12",2065,NA,87507
+"EU-12",2070,NA,85081
+"EU-12",2075,NA,82569
+"EU-12",2080,NA,80124
+"EU-12",2085,NA,77829
+"EU-12",2090,NA,75700
+"EU-12",2095,NA,73704
+"EU-12",2100,NA,71775
+"EU-15",2020,NA,410786
+"EU-15",2025,NA,417109
+"EU-15",2030,NA,422887
+"EU-15",2035,NA,428181
+"EU-15",2040,NA,433036
+"EU-15",2045,NA,437256
+"EU-15",2050,NA,440600
+"EU-15",2055,NA,442992
+"EU-15",2060,NA,444653
+"EU-15",2065,NA,445271
+"EU-15",2070,NA,445263
+"EU-15",2075,NA,444778
+"EU-15",2080,NA,443719
+"EU-15",2085,NA,441988
+"EU-15",2090,NA,439290
+"EU-15",2095,NA,435605
+"EU-15",2100,NA,430661
+"Europe_Eastern",2020,NA,56851
+"Europe_Eastern",2025,NA,55458
+"Europe_Eastern",2030,NA,54198
+"Europe_Eastern",2035,NA,53087
+"Europe_Eastern",2040,NA,52133
+"Europe_Eastern",2045,NA,51262
+"Europe_Eastern",2050,NA,50429
+"Europe_Eastern",2055,NA,49635
+"Europe_Eastern",2060,NA,48892
+"Europe_Eastern",2065,NA,48066
+"Europe_Eastern",2070,NA,47179
+"Europe_Eastern",2075,NA,46230
+"Europe_Eastern",2080,NA,45227
+"Europe_Eastern",2085,NA,44191
+"Europe_Eastern",2090,NA,43146
+"Europe_Eastern",2095,NA,42092
+"Europe_Eastern",2100,NA,41002
+"Europe_Non_EU",2020,NA,104683
+"Europe_Non_EU",2025,NA,108334
+"Europe_Non_EU",2030,NA,111526
+"Europe_Non_EU",2035,NA,114226
+"Europe_Non_EU",2040,NA,116432
+"Europe_Non_EU",2045,NA,118121
+"Europe_Non_EU",2050,NA,119289
+"Europe_Non_EU",2055,NA,119897
+"Europe_Non_EU",2060,NA,120004
+"Europe_Non_EU",2065,NA,119658
+"Europe_Non_EU",2070,NA,118869
+"Europe_Non_EU",2075,NA,117659
+"Europe_Non_EU",2080,NA,116090
+"Europe_Non_EU",2085,NA,114257
+"Europe_Non_EU",2090,NA,112312
+"Europe_Non_EU",2095,NA,110280
+"Europe_Non_EU",2100,NA,108150
+"European Free Trade Association",2020,NA,14375
+"European Free Trade Association",2025,NA,14911
+"European Free Trade Association",2030,NA,15440
+"European Free Trade Association",2035,NA,15937
+"European Free Trade Association",2040,NA,16401
+"European Free Trade Association",2045,NA,16844
+"European Free Trade Association",2050,NA,17270
+"European Free Trade Association",2055,NA,17673
+"European Free Trade Association",2060,NA,18044
+"European Free Trade Association",2065,NA,18347
+"European Free Trade Association",2070,NA,18591
+"European Free Trade Association",2075,NA,18786
+"European Free Trade Association",2080,NA,18932
+"European Free Trade Association",2085,NA,19026
+"European Free Trade Association",2090,NA,19045
+"European Free Trade Association",2095,NA,18986
+"European Free Trade Association",2100,NA,18847
+"India",2020,NA,1390445
+"India",2025,NA,1464252
+"India",2030,NA,1531189
+"India",2035,NA,1593137
+"India",2040,NA,1648678
+"India",2045,NA,1697448
+"India",2050,NA,1736738
+"India",2055,NA,1765632
+"India",2060,NA,1782314
+"India",2065,NA,1787852
+"India",2070,NA,1784275
+"India",2075,NA,1771807
+"India",2080,NA,1750763
+"India",2085,NA,1721856
+"India",2090,NA,1687292
+"India",2095,NA,1647716
+"India",2100,NA,1605656
+"Indonesia",2020,NA,268979
+"Indonesia",2025,NA,277911
+"Indonesia",2030,NA,285073
+"Indonesia",2035,NA,290581
+"Indonesia",2040,NA,294272
+"Indonesia",2045,NA,295961
+"Indonesia",2050,NA,295514
+"Indonesia",2055,NA,293448
+"Indonesia",2060,NA,289848
+"Indonesia",2065,NA,284947
+"Indonesia",2070,NA,279001
+"Indonesia",2075,NA,272274
+"Indonesia",2080,NA,265011
+"Indonesia",2085,NA,257412
+"Indonesia",2090,NA,249617
+"Indonesia",2095,NA,241732
+"Indonesia",2100,NA,233841
+"Japan",2020,NA,126674
+"Japan",2025,NA,124682
+"Japan",2030,NA,122205
+"Japan",2035,NA,119425
+"Japan",2040,NA,116466
+"Japan",2045,NA,113374
+"Japan",2050,NA,110228
+"Japan",2055,NA,107097
+"Japan",2060,NA,103942
+"Japan",2065,NA,100573
+"Japan",2070,NA,97045
+"Japan",2075,NA,93496
+"Japan",2080,NA,90013
+"Japan",2085,NA,86442
+"Japan",2090,NA,82905
+"Japan",2095,NA,79443
+"Japan",2100,NA,76059
+"Mexico",2020,NA,128166
+"Mexico",2025,NA,133883
+"Mexico",2030,NA,138897
+"Mexico",2035,NA,143123
+"Mexico",2040,NA,146566
+"Mexico",2045,NA,149207
+"Mexico",2050,NA,151057
+"Mexico",2055,NA,152126
+"Mexico",2060,NA,152391
+"Mexico",2065,NA,152312
+"Mexico",2070,NA,152038
+"Mexico",2075,NA,151541
+"Mexico",2080,NA,150753
+"Mexico",2085,NA,149656
+"Mexico",2090,NA,148293
+"Mexico",2095,NA,146831
+"Mexico",2100,NA,145314
+"Middle East",2020,NA,263175
+"Middle East",2025,NA,285215
+"Middle East",2030,NA,306215
+"Middle East",2035,NA,326372
+"Middle East",2040,NA,345587
+"Middle East",2045,NA,363165
+"Middle East",2050,NA,378689
+"Middle East",2055,NA,391982
+"Middle East",2060,NA,402949
+"Middle East",2065,NA,411673
+"Middle East",2070,NA,418270
+"Middle East",2075,NA,422733
+"Middle East",2080,NA,425282
+"Middle East",2085,NA,426217
+"Middle East",2090,NA,425855
+"Middle East",2095,NA,424503
+"Middle East",2100,NA,422123
+"Pakistan",2020,NA,217611
+"Pakistan",2025,NA,235246
+"Pakistan",2030,NA,251556
+"Pakistan",2035,NA,266794
+"Pakistan",2040,NA,281252
+"Pakistan",2045,NA,294811
+"Pakistan",2050,NA,307069
+"Pakistan",2055,NA,317275
+"Pakistan",2060,NA,325405
+"Pakistan",2065,NA,331845
+"Pakistan",2070,NA,336791
+"Pakistan",2075,NA,340620
+"Pakistan",2080,NA,343182
+"Pakistan",2085,NA,344732
+"Pakistan",2090,NA,344939
+"Pakistan",2095,NA,344183
+"Pakistan",2100,NA,342540
+"Russia",2020,NA,144271
+"Russia",2025,NA,143195
+"Russia",2030,NA,141897
+"Russia",2035,NA,140735
+"Russia",2040,NA,140027
+"Russia",2045,NA,139464
+"Russia",2050,NA,138932
+"Russia",2055,NA,138295
+"Russia",2060,NA,137620
+"Russia",2065,NA,136685
+"Russia",2070,NA,135592
+"Russia",2075,NA,134301
+"Russia",2080,NA,132755
+"Russia",2085,NA,130973
+"Russia",2090,NA,129027
+"Russia",2095,NA,126931
+"Russia",2100,NA,124611
+"South Africa",2020,NA,57817
+"South Africa",2025,NA,59978
+"South Africa",2030,NA,61814
+"South Africa",2035,NA,63336
+"South Africa",2040,NA,64630
+"South Africa",2045,NA,65681
+"South Africa",2050,NA,66519
+"South Africa",2055,NA,67138
+"South Africa",2060,NA,67571
+"South Africa",2065,NA,67720
+"South Africa",2070,NA,67556
+"South Africa",2075,NA,67095
+"South Africa",2080,NA,66349
+"South Africa",2085,NA,65437
+"South Africa",2090,NA,64361
+"South Africa",2095,NA,63119
+"South Africa",2100,NA,61707
+"South America_Northern",2020,NA,33700
+"South America_Northern",2025,NA,35594
+"South America_Northern",2030,NA,37332
+"South America_Northern",2035,NA,38852
+"South America_Northern",2040,NA,40151
+"South America_Northern",2045,NA,41230
+"South America_Northern",2050,NA,42082
+"South America_Northern",2055,NA,42720
+"South America_Northern",2060,NA,43150
+"South America_Northern",2065,NA,43365
+"South America_Northern",2070,NA,43360
+"South America_Northern",2075,NA,43147
+"South America_Northern",2080,NA,42778
+"South America_Northern",2085,NA,42267
+"South America_Northern",2090,NA,41631
+"South America_Northern",2095,NA,40891
+"South America_Northern",2100,NA,40070
+"South America_Southern",2020,NA,89585
+"South America_Southern",2025,NA,93150
+"South America_Southern",2030,NA,96224
+"South America_Southern",2035,NA,98742
+"South America_Southern",2040,NA,100722
+"South America_Southern",2045,NA,102136
+"South America_Southern",2050,NA,102982
+"South America_Southern",2055,NA,103289
+"South America_Southern",2060,NA,103109
+"South America_Southern",2065,NA,102643
+"South America_Southern",2070,NA,101937
+"South America_Southern",2075,NA,100995
+"South America_Southern",2080,NA,99817
+"South America_Southern",2085,NA,98433
+"South America_Southern",2090,NA,96900
+"South America_Southern",2095,NA,95294
+"South America_Southern",2100,NA,93650
+"South Asia",2020,NA,256461
+"South Asia",2025,NA,272593
+"South Asia",2030,NA,287632
+"South Asia",2035,NA,301395
+"South Asia",2040,NA,313720
+"South Asia",2045,NA,324320
+"South Asia",2050,NA,333066
+"South Asia",2055,NA,339924
+"South Asia",2060,NA,344844
+"South Asia",2065,NA,348159
+"South Asia",2070,NA,350061
+"South Asia",2075,NA,350761
+"South Asia",2080,NA,350355
+"South Asia",2085,NA,348946
+"South Asia",2090,NA,346676
+"South Asia",2095,NA,343742
+"South Asia",2100,NA,340319
+"South Korea",2020,NA,51313
+"South Korea",2025,NA,51586
+"South Korea",2030,NA,51607
+"South Korea",2035,NA,51276
+"South Korea",2040,NA,50536
+"South Korea",2045,NA,49424
+"South Korea",2050,NA,47994
+"South Korea",2055,NA,46346
+"South Korea",2060,NA,44588
+"South Korea",2065,NA,42769
+"South Korea",2070,NA,40936
+"South Korea",2075,NA,39131
+"South Korea",2080,NA,37385
+"South Korea",2085,NA,35718
+"South Korea",2090,NA,34143
+"South Korea",2095,NA,32668
+"South Korea",2100,NA,31222
+"Southeast Asia",2020,NA,433107
+"Southeast Asia",2025,NA,451150
+"Southeast Asia",2030,NA,466494
+"Southeast Asia",2035,NA,478957
+"Southeast Asia",2040,NA,488555
+"Southeast Asia",2045,NA,495292
+"Southeast Asia",2050,NA,499174
+"Southeast Asia",2055,NA,500737
+"Southeast Asia",2060,NA,500223
+"Southeast Asia",2065,NA,497740
+"Southeast Asia",2070,NA,493605
+"Southeast Asia",2075,NA,487847
+"Southeast Asia",2080,NA,480743
+"Southeast Asia",2085,NA,472604
+"Southeast Asia",2090,NA,463739
+"Southeast Asia",2095,NA,454455
+"Southeast Asia",2100,NA,444858
+"Taiwan",2020,NA,23557
+"Taiwan",2025,NA,23557
+"Taiwan",2030,NA,23557
+"Taiwan",2035,NA,23557
+"Taiwan",2040,NA,23557
+"Taiwan",2045,NA,23557
+"Taiwan",2050,NA,23557
+"Taiwan",2055,NA,23557
+"Taiwan",2060,NA,23557
+"Taiwan",2065,NA,23557
+"Taiwan",2070,NA,23557
+"Taiwan",2075,NA,23557
+"Taiwan",2080,NA,23557
+"Taiwan",2085,NA,23557
+"Taiwan",2090,NA,23557
+"Taiwan",2095,NA,23557
+"Taiwan",2100,NA,23557
+"Argentina",2020,NA,44637
+"Argentina",2025,NA,46040
+"Argentina",2030,NA,47286
+"Argentina",2035,NA,48376
+"Argentina",2040,NA,49321
+"Argentina",2045,NA,50052
+"Argentina",2050,NA,50587
+"Argentina",2055,NA,50920
+"Argentina",2060,NA,51055
+"Argentina",2065,NA,51051
+"Argentina",2070,NA,50881
+"Argentina",2075,NA,50559
+"Argentina",2080,NA,50101
+"Argentina",2085,NA,49577
+"Argentina",2090,NA,49002
+"Argentina",2095,NA,48379
+"Argentina",2100,NA,47716
+"Colombia",2020,NA,50315
+"Colombia",2025,NA,52898
+"Colombia",2030,NA,55222
+"Colombia",2035,NA,57240
+"Colombia",2040,NA,58976
+"Colombia",2045,NA,60431
+"Colombia",2050,NA,61553
+"Colombia",2055,NA,62356
+"Colombia",2060,NA,62899
+"Colombia",2065,NA,63157
+"Colombia",2070,NA,63179
+"Colombia",2075,NA,62972
+"Colombia",2080,NA,62528
+"Colombia",2085,NA,61871
+"Colombia",2090,NA,61079
+"Colombia",2095,NA,60178
+"Colombia",2100,NA,59180
