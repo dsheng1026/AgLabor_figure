@@ -9,11 +9,24 @@ library(ggpubr)
 fig.dir <- "Figure/"
 
 # load data ----
-driver <- readRDS("DRIVER.RDS")
-metric <- readRDS("metrics.RDS")
-output <- readRDS("output.RDS")
-cluster <- read.csv("ClusterRegion.csv") %>% select(region, REG10_AR6) %>%
+driver <- readRDS("input/DRIVER.RDS")
+metric <- readRDS("input/metrics.RDS")
+output <- readRDS("input/output.RDS")
+cluster <- read.csv("input/ClusterRegion.csv") %>% select(region, REG10_AR6) %>%
   rename(REG = REG10_AR6)
+
+# remove fishery labor in historical periods ----
+SHARE <- read.csv("input/FOR_FISH_share_L.csv") %>%
+  select(-X, -GCAM_region_ID)
+
+driver %>%
+  filter(var == "ag labor") %>%
+  left_join(SHARE, by = "region") %>%
+  mutate(value = ifelse(year < 2020, value * (1-FISH), value)) %>%
+  select(names(driver)) %>%
+  bind_rows(driver %>% filter(var != "ag labor")) ->
+  driver
+
 
 YEAR_1 <- c(1975, 2015, 2020, 2050, 2100)
 REG_1 <- c("World", "AFRICA", "CHINA+", "NORTH_AM")
@@ -176,8 +189,8 @@ ggplot() +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"),
         plot.margin = margin(t = 10, r = 18, b = 10, l = 10)) -> p1; p1
 
-ggsave(filename = paste0(fig.dir, "M_Figure1/driver.png"), p1,
-       width = 14, height = 16, dpi = 300, units = "in", device='png')
+# ggsave(filename = paste0(fig.dir, "M_Figure1/driver.png"), p1,
+#        width = 14, height = 16, dpi = 300, units = "in", device='png')
 
 driver %>%
   filter(var %in% c("LF", "rural", "pop", "ag labor")) %>%
@@ -211,7 +224,7 @@ df.driver.lev %>%
   labs(x = "Year", y = "Billion People", fill = "Region (Panels A & B)") +
   ggtitle("(A) Agricultural labor input") +
   theme(plot.title = element_text(hjust = 0.5, face = "bold"),
-        plot.margin = margin(t = 10, r = 18, b = 10, l = 10)) -> p1
+        plot.margin = margin(t = 10, r = 18, b = 10, l = 10)) -> p1; p1
 
 df.driver.lev %>%
   gather(var, value, mult:eff) %>%
@@ -240,7 +253,7 @@ df.driver.lev %>%
         plot.margin = margin(t = 10, r = 18, b = 10, l = 10)) -> p2
 
 
-p1 + p2 + patchwork::plot_layout(guides = "collect") -> pp1
+p1 + p2 + patchwork::plot_layout(guides = "collect") -> pp1; pp1
 
 df.driver.lev %>%
   gather(var, value, mult:eff) %>%
@@ -327,7 +340,7 @@ p3 + theme(legend.position = "none") +
   plot_layout(guides = 'collect', widths = c(1, 1, 0.4)) -> pp2
 
 # global Fig1 ----
-pp1/pp2 -> pp3
+pp1/pp2 -> pp3; pp3
 ggsave(paste0(fig.dir,"M_Figure1/driver_level1.png"), pp3, width = 18, height = 14)
 
 # regional drivers ----
