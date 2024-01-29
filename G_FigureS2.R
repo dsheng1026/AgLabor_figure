@@ -1,4 +1,7 @@
 
+library(ggplot2)
+library(dplyr)
+library(ggsci)
 # plot Figure S2 ----
 
 fontfamily = "Arial"
@@ -80,7 +83,7 @@ df.Fig.S2 %>%
   theme_bw() + theme0 + theme_leg ->
   labor.share.10REG; labor.share.10REG
 
-ggsave(filename = paste0(fig.dir, "FigureS2/labor_breakdown_share_10.png"), labor.share.10REG,
+ggsave(filename = paste0(fig.dir, "S_Figure2/labor_breakdown_share_10.png"), labor.share.10REG,
        width = 12, height = 10, dpi = 300, units = "in", device='png')
 
 # data preparation ----
