@@ -54,6 +54,7 @@ fig.dir <- "Figure/"
 
 load("FigureS2.rds")
 
+# share to regional total ----
 labor_all %>%
   filter(group != "Ag_GCAM") %>%
   REG() %>%
@@ -84,6 +85,40 @@ df.Fig.S2 %>%
   labor.share.10REG; labor.share.10REG
 
 ggsave(filename = paste0(fig.dir, "S_Figure2/labor_breakdown_share_10.png"), labor.share.10REG,
+       width = 12, height = 10, dpi = 300, units = "in", device='png')
+
+
+# share to global total ----
+labor_all %>%
+  filter(group != "Ag_GCAM") %>%
+  REG() %>%
+  ungroup() %>%
+  mutate(Total = sum(value),
+         share = 100 * value / Total) ->
+  share_sec
+
+share_sec %>%
+  mutate(group = gsub("Staples", "Staple crops", group),
+         group = gsub("Fish", "Fishery", group)) ->
+  df.Fig.S2
+
+df.Fig.S2$group <- factor(df.Fig.S2$group,
+                          levels = c("Staple crops", "Oil crops",
+                                     "Other crops", "Livestock",
+                                     "Fishery", "Forest"))
+
+df.Fig.S2 %>%
+  ggplot(aes(x = group, y = REG)) +
+  geom_tile(aes(fill = share)) +
+  geom_text(aes(label = round(share, 1))) +
+  scale_fill_gradient(low = "white", high = "blue") +
+  labs(x = "", y = paste0(""), fill = "%") +
+  scale_color_npg() +
+  ggtitle("") +
+  theme_bw() + theme0 + theme_leg ->
+  labor.share.10REG; labor.share.10REG
+
+ggsave(filename = paste0(fig.dir, "S_Figure2/labor_breakdown_share_10_glb.png"), labor.share.10REG,
        width = 12, height = 10, dpi = 300, units = "in", device='png')
 
 # data preparation ----
