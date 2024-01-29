@@ -1,0 +1,900 @@
+"region","year","value"
+"Africa_Eastern",2010,393.170631777
+"Africa_Eastern",2015,444.44008919
+"Africa_Eastern",2020,501.517607789
+"Africa_Eastern",2025,560.601050521
+"Africa_Eastern",2030,620.951583261
+"Africa_Eastern",2035,681.179983886
+"Africa_Eastern",2040,739.61559004
+"Africa_Eastern",2045,794.911266754
+"Africa_Eastern",2050,846.14200272
+"Africa_Eastern",2055,892.490017695
+"Africa_Eastern",2060,933.83012899
+"Africa_Eastern",2065,969.979206619
+"Africa_Eastern",2070,1000.760853475
+"Africa_Eastern",2075,1026.326602781
+"Africa_Eastern",2080,1046.094742839
+"Africa_Eastern",2085,1060.333830069
+"Africa_Eastern",2090,1069.517739735
+"Africa_Eastern",2095,1074.171851498
+"Africa_Eastern",2100,1074.339047629
+"Africa_Eastern",2105,0
+"Africa_Eastern",2110,0
+"Africa_Eastern",2115,0
+"Africa_Eastern",2120,0
+"Africa_Eastern",2125,0
+"Africa_Eastern",2130,0
+"Africa_Eastern",2135,0
+"Africa_Eastern",2140,0
+"Africa_Eastern",2145,0
+"Africa_Eastern",2150,0
+"Africa_Northern",2010,261.336591536
+"Africa_Northern",2015,281.90345365
+"Africa_Northern",2020,300.291053479
+"Africa_Northern",2025,316.770072339
+"Africa_Northern",2030,331.76202899
+"Africa_Northern",2035,345.179231967
+"Africa_Northern",2040,356.56880916
+"Africa_Northern",2045,364.788625441
+"Africa_Northern",2050,369.115638813
+"Africa_Northern",2055,371.234219798
+"Africa_Northern",2060,372.439435487
+"Africa_Northern",2065,373.003362672
+"Africa_Northern",2070,371.710654488
+"Africa_Northern",2075,368.269132668
+"Africa_Northern",2080,363.476899425
+"Africa_Northern",2085,357.963584243
+"Africa_Northern",2090,352.249636284
+"Africa_Northern",2095,346.338863567
+"Africa_Northern",2100,340.032755211
+"Africa_Northern",2105,0
+"Africa_Northern",2110,0
+"Africa_Northern",2115,0
+"Africa_Northern",2120,0
+"Africa_Northern",2125,0
+"Africa_Northern",2130,0
+"Africa_Northern",2135,0
+"Africa_Northern",2140,0
+"Africa_Northern",2145,0
+"Africa_Northern",2150,0
+"Africa_Southern",2010,201.89861065
+"Africa_Southern",2015,228.084547156
+"Africa_Southern",2020,257.355685529
+"Africa_Southern",2025,288.65388775
+"Africa_Southern",2030,321.107839272
+"Africa_Southern",2035,354.098943073
+"Africa_Southern",2040,386.909282775
+"Africa_Southern",2045,418.479665392
+"Africa_Southern",2050,448.615542254
+"Africa_Southern",2055,476.724360974
+"Africa_Southern",2060,502.503191323
+"Africa_Southern",2065,525.981439643
+"Africa_Southern",2070,546.52813198
+"Africa_Southern",2075,563.739832219
+"Africa_Southern",2080,578.31008619
+"Africa_Southern",2085,590.135708473
+"Africa_Southern",2090,598.985668233
+"Africa_Southern",2095,604.941269945
+"Africa_Southern",2100,608.168051388
+"Africa_Southern",2105,0
+"Africa_Southern",2110,0
+"Africa_Southern",2115,0
+"Africa_Southern",2120,0
+"Africa_Southern",2125,0
+"Africa_Southern",2130,0
+"Africa_Southern",2135,0
+"Africa_Southern",2140,0
+"Africa_Southern",2145,0
+"Africa_Southern",2150,0
+"Africa_Western",2010,614.909433225
+"Africa_Western",2015,693.244328715
+"Africa_Western",2020,783.165305297
+"Africa_Western",2025,880.023447771
+"Africa_Western",2030,981.875996539
+"Africa_Western",2035,1087.134212371
+"Africa_Western",2040,1193.331066033
+"Africa_Western",2045,1298.649347993
+"Africa_Western",2050,1402.130369016
+"Africa_Western",2055,1500.126156071
+"Africa_Western",2060,1592.026734471
+"Africa_Western",2065,1678.440887825
+"Africa_Western",2070,1756.987789306
+"Africa_Western",2075,1825.610489403
+"Africa_Western",2080,1884.389105064
+"Africa_Western",2085,1933.469132668
+"Africa_Western",2090,1973.130838815
+"Africa_Western",2095,2003.641474422
+"Africa_Western",2100,2025.073703766
+"Africa_Western",2105,0
+"Africa_Western",2110,0
+"Africa_Western",2115,0
+"Africa_Western",2120,0
+"Africa_Western",2125,0
+"Africa_Western",2130,0
+"Africa_Western",2135,0
+"Africa_Western",2140,0
+"Africa_Western",2145,0
+"Africa_Western",2150,0
+"Argentina",2010,63.834442773
+"Argentina",2015,66.595997874
+"Argentina",2020,69.033626899
+"Argentina",2025,71.192578518
+"Argentina",2030,73.11946191
+"Argentina",2035,74.78569618
+"Argentina",2040,75.996308268
+"Argentina",2045,76.506534508
+"Argentina",2050,76.84580561
+"Argentina",2055,76.87225916
+"Argentina",2060,76.5813689
+"Argentina",2065,76.139152106
+"Argentina",2070,75.539417713
+"Argentina",2075,74.626517446
+"Argentina",2080,73.506430233
+"Argentina",2085,72.282627249
+"Argentina",2090,71.001575711
+"Argentina",2095,69.647973941
+"Argentina",2100,68.219914441
+"Argentina",2105,0
+"Argentina",2110,0
+"Argentina",2115,0
+"Argentina",2120,0
+"Argentina",2125,0
+"Argentina",2130,0
+"Argentina",2135,0
+"Argentina",2140,0
+"Argentina",2145,0
+"Argentina",2150,0
+"Australia_NZ",2010,42.519540964
+"Australia_NZ",2015,45.769128451
+"Australia_NZ",2020,48.763227212
+"Australia_NZ",2025,51.571604781
+"Australia_NZ",2030,54.226937543
+"Australia_NZ",2035,56.937460981
+"Australia_NZ",2040,59.515582143
+"Australia_NZ",2045,62.092165094
+"Australia_NZ",2050,64.206975671
+"Australia_NZ",2055,65.979502159
+"Australia_NZ",2060,67.791570856
+"Australia_NZ",2065,69.444646863
+"Australia_NZ",2070,70.82321844
+"Australia_NZ",2075,71.69425583
+"Australia_NZ",2080,72.154722444
+"Australia_NZ",2085,72.154436044
+"Australia_NZ",2090,71.788606133
+"Australia_NZ",2095,71.135594631
+"Australia_NZ",2100,70.215396782
+"Australia_NZ",2105,0
+"Australia_NZ",2110,0
+"Australia_NZ",2115,0
+"Australia_NZ",2120,0
+"Australia_NZ",2125,0
+"Australia_NZ",2130,0
+"Australia_NZ",2135,0
+"Australia_NZ",2140,0
+"Australia_NZ",2145,0
+"Australia_NZ",2150,0
+"Brazil",2010,315.254407153
+"Brazil",2015,329.906757503
+"Brazil",2020,343.33685302
+"Brazil",2025,353.872546589
+"Brazil",2030,360.392097866
+"Brazil",2035,364.871450563
+"Brazil",2040,367.272888435
+"Brazil",2045,366.617461822
+"Brazil",2050,362.752884092
+"Brazil",2055,357.458621666
+"Brazil",2060,351.141192037
+"Brazil",2065,342.687080157
+"Brazil",2070,332.984717084
+"Brazil",2075,323.840544579
+"Brazil",2080,314.027368461
+"Brazil",2085,303.598300717
+"Brazil",2090,293.026716347
+"Brazil",2095,282.745812234
+"Brazil",2100,272.778722985
+"Brazil",2105,0
+"Brazil",2110,0
+"Brazil",2115,0
+"Brazil",2120,0
+"Brazil",2125,0
+"Brazil",2130,0
+"Brazil",2135,0
+"Brazil",2140,0
+"Brazil",2145,0
+"Brazil",2150,0
+"Canada",2010,54.692071569
+"Canada",2015,57.512071241
+"Canada",2020,60.026029264
+"Canada",2025,62.073473407
+"Canada",2030,63.934438495
+"Canada",2035,66.146776976
+"Canada",2040,68.462343082
+"Canada",2045,70.673173049
+"Canada",2050,72.53644728
+"Canada",2055,74.023853066
+"Canada",2060,75.49785435
+"Canada",2065,77.028492726
+"Canada",2070,78.420742981
+"Canada",2075,79.356256628
+"Canada",2080,79.886832221
+"Canada",2085,79.921810703
+"Canada",2090,79.565235114
+"Canada",2095,78.889439984
+"Canada",2100,77.932511612
+"Canada",2105,0
+"Canada",2110,0
+"Canada",2115,0
+"Canada",2120,0
+"Canada",2125,0
+"Canada",2130,0
+"Canada",2135,0
+"Canada",2140,0
+"Canada",2145,0
+"Canada",2150,0
+"Central America and Caribbean",2010,124.354600791
+"Central America and Caribbean",2015,132.499276272
+"Central America and Caribbean",2020,139.739131691
+"Central America and Caribbean",2025,146.11669433
+"Central America and Caribbean",2030,151.188802693
+"Central America and Caribbean",2035,155.354295838
+"Central America and Caribbean",2040,158.700783528
+"Central America and Caribbean",2045,161.313537915
+"Central America and Caribbean",2050,162.751554239
+"Central America and Caribbean",2055,163.116430156
+"Central America and Caribbean",2060,162.428687308
+"Central America and Caribbean",2065,161.29307596
+"Central America and Caribbean",2070,159.835744403
+"Central America and Caribbean",2075,158.015701101
+"Central America and Caribbean",2080,155.981428994
+"Central America and Caribbean",2085,153.689269317
+"Central America and Caribbean",2090,151.197519085
+"Central America and Caribbean",2095,148.55739557
+"Central America and Caribbean",2100,145.840764231
+"Central America and Caribbean",2105,0
+"Central America and Caribbean",2110,0
+"Central America and Caribbean",2115,0
+"Central America and Caribbean",2120,0
+"Central America and Caribbean",2125,0
+"Central America and Caribbean",2130,0
+"Central America and Caribbean",2135,0
+"Central America and Caribbean",2140,0
+"Central America and Caribbean",2145,0
+"Central America and Caribbean",2150,0
+"Central Asia",2010,125.648762169
+"Central Asia",2015,133.728032253
+"Central Asia",2020,139.042804391
+"Central Asia",2025,142.574424027
+"Central Asia",2030,145.571272173
+"Central Asia",2035,148.537603894
+"Central Asia",2040,150.6210044
+"Central Asia",2045,151.513412258
+"Central Asia",2050,150.746785554
+"Central Asia",2055,148.451181461
+"Central Asia",2060,145.957250699
+"Central Asia",2065,144.277161872
+"Central Asia",2070,142.388546146
+"Central Asia",2075,139.29893945
+"Central Asia",2080,135.837261371
+"Central Asia",2085,132.392655807
+"Central Asia",2090,129.266421129
+"Central Asia",2095,126.434292663
+"Central Asia",2100,123.586360509
+"Central Asia",2105,0
+"Central Asia",2110,0
+"Central Asia",2115,0
+"Central Asia",2120,0
+"Central Asia",2125,0
+"Central Asia",2130,0
+"Central Asia",2135,0
+"Central Asia",2140,0
+"Central Asia",2145,0
+"Central Asia",2150,0
+"China",2010,2243.979536196
+"China",2015,2298.664645927
+"China",2020,2316.233424294
+"China",2025,2317.501351146
+"China",2030,2291.261512356
+"China",2035,2224.738698115
+"China",2040,2147.175707543
+"China",2045,2081.293293653
+"China",2050,1995.798978109
+"China",2055,1883.770736006
+"China",2060,1778.093556348
+"China",2065,1676.940176617
+"China",2070,1583.519252277
+"China",2075,1490.473742105
+"China",2080,1405.08019932
+"China",2085,1321.81818984
+"China",2090,1244.609449405
+"China",2095,1174.221508257
+"China",2100,1110.376604496
+"China",2105,0
+"China",2110,0
+"China",2115,0
+"China",2120,0
+"China",2125,0
+"China",2130,0
+"China",2135,0
+"China",2140,0
+"China",2145,0
+"China",2150,0
+"Colombia",2010,73.23674683
+"Colombia",2015,78.443347999
+"Colombia",2020,83.177459738
+"Colombia",2025,87.39205657
+"Colombia",2030,90.962428334
+"Colombia",2035,93.909756528
+"Colombia",2040,96.538526963
+"Colombia",2045,98.49662164
+"Colombia",2050,99.817323241
+"Colombia",2055,100.528517251
+"Colombia",2060,100.692458812
+"Colombia",2065,100.473070659
+"Colombia",2070,99.892613784
+"Colombia",2075,98.899137358
+"Colombia",2080,97.645218158
+"Colombia",2085,96.057239058
+"Colombia",2090,94.253964689
+"Colombia",2095,92.298421416
+"Colombia",2100,90.218485527
+"Colombia",2105,0
+"Colombia",2110,0
+"Colombia",2115,0
+"Colombia",2120,0
+"Colombia",2125,0
+"Colombia",2130,0
+"Colombia",2135,0
+"Colombia",2140,0
+"Colombia",2145,0
+"Colombia",2150,0
+"EU-12",2010,170.239140824
+"EU-12",2015,169.370276994
+"EU-12",2020,166.486021021
+"EU-12",2025,163.289741228
+"EU-12",2030,161.108587464
+"EU-12",2035,158.29468718
+"EU-12",2040,154.67492762
+"EU-12",2045,149.832463989
+"EU-12",2050,144.930156826
+"EU-12",2055,139.970580666
+"EU-12",2060,135.912290081
+"EU-12",2065,132.449129066
+"EU-12",2070,128.971880809
+"EU-12",2075,124.799061164
+"EU-12",2080,120.443900665
+"EU-12",2085,116.229601563
+"EU-12",2090,112.323600738
+"EU-12",2095,108.813632022
+"EU-12",2100,105.61889174
+"EU-12",2105,0
+"EU-12",2110,0
+"EU-12",2115,0
+"EU-12",2120,0
+"EU-12",2125,0
+"EU-12",2130,0
+"EU-12",2135,0
+"EU-12",2140,0
+"EU-12",2145,0
+"EU-12",2150,0
+"EU-15",2010,638.151444731
+"EU-15",2015,645.360793874
+"EU-15",2020,650.872960308
+"EU-15",2025,654.345933
+"EU-15",2030,655.123315541
+"EU-15",2035,655.218492046
+"EU-15",2040,656.658687438
+"EU-15",2045,658.241574661
+"EU-15",2050,658.665313141
+"EU-15",2055,658.134050047
+"EU-15",2060,658.736895549
+"EU-15",2065,658.83398441
+"EU-15",2070,657.367073962
+"EU-15",2075,653.364647459
+"EU-15",2080,648.297683289
+"EU-15",2085,642.062028336
+"EU-15",2090,634.698967276
+"EU-15",2095,626.275990662
+"EU-15",2100,616.299842114
+"EU-15",2105,0
+"EU-15",2110,0
+"EU-15",2115,0
+"EU-15",2120,0
+"EU-15",2125,0
+"EU-15",2130,0
+"EU-15",2135,0
+"EU-15",2140,0
+"EU-15",2145,0
+"EU-15",2150,0
+"Europe_Eastern",2010,96.320532252
+"Europe_Eastern",2015,93.820450361
+"Europe_Eastern",2020,90.520868942
+"Europe_Eastern",2025,87.294516579
+"Europe_Eastern",2030,84.915675278
+"Europe_Eastern",2035,83.30734393
+"Europe_Eastern",2040,81.568059018
+"Europe_Eastern",2045,79.583747389
+"Europe_Eastern",2050,77.212133859
+"Europe_Eastern",2055,74.930942628
+"Europe_Eastern",2060,73.386043522
+"Europe_Eastern",2065,72.228655653
+"Europe_Eastern",2070,70.934951222
+"Europe_Eastern",2075,69.060144867
+"Europe_Eastern",2080,66.97618218
+"Europe_Eastern",2085,64.896937958
+"Europe_Eastern",2090,62.922873898
+"Europe_Eastern",2095,61.038090966
+"Europe_Eastern",2100,59.109988281
+"Europe_Eastern",2105,0
+"Europe_Eastern",2110,0
+"Europe_Eastern",2115,0
+"Europe_Eastern",2120,0
+"Europe_Eastern",2125,0
+"Europe_Eastern",2130,0
+"Europe_Eastern",2135,0
+"Europe_Eastern",2140,0
+"Europe_Eastern",2145,0
+"Europe_Eastern",2150,0
+"Europe_Non_EU",2010,156.662981312
+"Europe_Non_EU",2015,164.414316417
+"Europe_Non_EU",2020,170.717403959
+"Europe_Non_EU",2025,176.132668758
+"Europe_Non_EU",2030,180.358037197
+"Europe_Non_EU",2035,183.809072943
+"Europe_Non_EU",2040,186.147984739
+"Europe_Non_EU",2045,187.225680799
+"Europe_Non_EU",2050,187.122800081
+"Europe_Non_EU",2055,186.550787876
+"Europe_Non_EU",2060,185.399362096
+"Europe_Non_EU",2065,183.691366319
+"Europe_Non_EU",2070,181.598296531
+"Europe_Non_EU",2075,178.678141168
+"Europe_Non_EU",2080,175.216832562
+"Europe_Non_EU",2085,171.385084907
+"Europe_Non_EU",2090,167.410303094
+"Europe_Non_EU",2095,163.319713178
+"Europe_Non_EU",2100,159.070728607
+"Europe_Non_EU",2105,0
+"Europe_Non_EU",2110,0
+"Europe_Non_EU",2115,0
+"Europe_Non_EU",2120,0
+"Europe_Non_EU",2125,0
+"Europe_Non_EU",2130,0
+"Europe_Non_EU",2135,0
+"Europe_Non_EU",2140,0
+"Europe_Non_EU",2145,0
+"Europe_Non_EU",2150,0
+"European Free Trade Association",2010,20.742978301
+"European Free Trade Association",2015,21.404059379
+"European Free Trade Association",2020,22.062735612
+"European Free Trade Association",2025,22.652395001
+"European Free Trade Association",2030,23.169398635
+"European Free Trade Association",2035,23.612461535
+"European Free Trade Association",2040,24.107225662
+"European Free Trade Association",2045,24.669240893
+"European Free Trade Association",2050,25.167088864
+"European Free Trade Association",2055,25.608244499
+"European Free Trade Association",2060,25.991677069
+"European Free Trade Association",2065,26.329385158
+"European Free Trade Association",2070,26.612015969
+"European Free Trade Association",2075,26.779854422
+"European Free Trade Association",2080,26.862104871
+"European Free Trade Association",2085,26.838629575
+"European Free Trade Association",2090,26.696768865
+"European Free Trade Association",2095,26.453166838
+"European Free Trade Association",2100,26.128379965
+"European Free Trade Association",2105,0
+"European Free Trade Association",2110,0
+"European Free Trade Association",2115,0
+"European Free Trade Association",2120,0
+"European Free Trade Association",2125,0
+"European Free Trade Association",2130,0
+"European Free Trade Association",2135,0
+"European Free Trade Association",2140,0
+"European Free Trade Association",2145,0
+"European Free Trade Association",2150,0
+"India",2010,1944.002485958
+"India",2015,2091.766144587
+"India",2020,2228.747422907
+"India",2025,2355.472855914
+"India",2030,2471.108759837
+"India",2035,2574.705451054
+"India",2040,2663.403366052
+"India",2045,2733.479048429
+"India",2050,2782.845718425
+"India",2055,2811.614790577
+"India",2060,2820.005792822
+"India",2065,2811.673586624
+"India",2070,2788.855008713
+"India",2075,2750.665067954
+"India",2080,2699.796902438
+"India",2085,2638.829640243
+"India",2090,2572.437899521
+"India",2095,2501.18403874
+"India",2100,2425.227123056
+"India",2105,0
+"India",2110,0
+"India",2115,0
+"India",2120,0
+"India",2125,0
+"India",2130,0
+"India",2135,0
+"India",2140,0
+"India",2145,0
+"India",2150,0
+"Indonesia",2010,384.569608425
+"Indonesia",2015,408.342806029
+"Indonesia",2020,427.276619536
+"Indonesia",2025,442.456413731
+"Indonesia",2030,453.570729181
+"Indonesia",2035,460.564975102
+"Indonesia",2040,463.717824654
+"Indonesia",2045,463.063467514
+"Indonesia",2050,458.602490158
+"Indonesia",2055,452.013848491
+"Indonesia",2060,443.10999698
+"Indonesia",2065,432.449935401
+"Indonesia",2070,419.245539805
+"Indonesia",2075,405.301790224
+"Indonesia",2080,391.171653227
+"Indonesia",2085,377.069833746
+"Indonesia",2090,363.127854723
+"Indonesia",2095,349.504625597
+"Indonesia",2100,336.157968266
+"Indonesia",2105,0
+"Indonesia",2110,0
+"Indonesia",2115,0
+"Indonesia",2120,0
+"Indonesia",2125,0
+"Indonesia",2130,0
+"Indonesia",2135,0
+"Indonesia",2140,0
+"Indonesia",2145,0
+"Indonesia",2150,0
+"Japan",2010,199.965566189
+"Japan",2015,195.161495581
+"Japan",2020,191.060401542
+"Japan",2025,187.320035741
+"Japan",2030,182.682429651
+"Japan",2035,176.988459117
+"Japan",2040,169.818893776
+"Japan",2045,163.429865629
+"Japan",2050,157.48178403
+"Japan",2055,152.119114545
+"Japan",2060,147.11801656
+"Japan",2065,141.828130196
+"Japan",2070,136.338853127
+"Japan",2075,130.683281285
+"Japan",2080,125.031256331
+"Japan",2085,119.53008704
+"Japan",2090,114.253140742
+"Japan",2095,109.153952642
+"Japan",2100,104.169222468
+"Japan",2105,0
+"Japan",2110,0
+"Japan",2115,0
+"Japan",2120,0
+"Japan",2125,0
+"Japan",2130,0
+"Japan",2135,0
+"Japan",2140,0
+"Japan",2145,0
+"Japan",2150,0
+"Mexico",2010,177.807923449
+"Mexico",2015,190.113605624
+"Mexico",2020,200.328342508
+"Mexico",2025,209.132764901
+"Mexico",2030,216.372575653
+"Mexico",2035,221.969656351
+"Mexico",2040,225.874523694
+"Mexico",2045,229.060511183
+"Mexico",2050,231.380223715
+"Mexico",2055,232.07018245
+"Mexico",2060,230.957480464
+"Mexico",2065,229.67816454
+"Mexico",2070,227.872373904
+"Mexico",2075,225.876177825
+"Mexico",2080,223.445903234
+"Mexico",2085,220.53208081
+"Mexico",2090,217.318096973
+"Mexico",2095,214.013250898
+"Mexico",2100,210.577088313
+"Mexico",2105,0
+"Mexico",2110,0
+"Mexico",2115,0
+"Mexico",2120,0
+"Mexico",2125,0
+"Mexico",2130,0
+"Mexico",2135,0
+"Mexico",2140,0
+"Mexico",2145,0
+"Mexico",2150,0
+"Middle East",2010,337.433056814
+"Middle East",2015,379.677861041
+"Middle East",2020,417.23584561
+"Middle East",2025,453.587873638
+"Middle East",2030,488.87030829
+"Middle East",2035,521.963690726
+"Middle East",2040,551.783153234
+"Middle East",2045,576.461343602
+"Middle East",2050,595.478233404
+"Middle East",2055,611.075655447
+"Middle East",2060,625.655464615
+"Middle East",2065,638.395304963
+"Middle East",2070,647.062164458
+"Middle East",2075,650.421704137
+"Middle East",2080,650.613923455
+"Middle East",2085,648.127102396
+"Middle East",2090,644.094744701
+"Middle East",2095,638.670506825
+"Middle East",2100,631.326225694
+"Middle East",2105,0
+"Middle East",2110,0
+"Middle East",2115,0
+"Middle East",2120,0
+"Middle East",2125,0
+"Middle East",2130,0
+"Middle East",2135,0
+"Middle East",2140,0
+"Middle East",2145,0
+"Middle East",2150,0
+"Pakistan",2010,269.994391408
+"Pakistan",2015,298.741097352
+"Pakistan",2020,327.580619567
+"Pakistan",2025,355.052386192
+"Pakistan",2030,381.307508405
+"Pakistan",2035,406.719146923
+"Pakistan",2040,430.762447984
+"Pakistan",2045,452.157383071
+"Pakistan",2050,470.077219625
+"Pakistan",2055,483.675506078
+"Pakistan",2060,494.074465834
+"Pakistan",2065,502.353159323
+"Pakistan",2070,509.882376924
+"Pakistan",2075,514.567608891
+"Pakistan",2080,516.027754302
+"Pakistan",2085,515.086501259
+"Pakistan",2090,512.309509267
+"Pakistan",2095,508.733982322
+"Pakistan",2100,504.012919456
+"Pakistan",2105,0
+"Pakistan",2110,0
+"Pakistan",2115,0
+"Pakistan",2120,0
+"Pakistan",2125,0
+"Pakistan",2130,0
+"Pakistan",2135,0
+"Pakistan",2140,0
+"Pakistan",2145,0
+"Pakistan",2150,0
+"Russia",2010,237.387512802
+"Russia",2015,236.049933934
+"Russia",2020,231.394726515
+"Russia",2025,226.711998488
+"Russia",2030,223.63330255
+"Russia",2035,222.952929537
+"Russia",2040,221.336384154
+"Russia",2045,218.498462413
+"Russia",2050,213.916641245
+"Russia",2055,209.250181864
+"Russia",2060,207.728829313
+"Russia",2065,207.088940855
+"Russia",2070,205.450743496
+"Russia",2075,202.045254114
+"Russia",2080,197.631388369
+"Russia",2085,193.242188085
+"Russia",2090,189.293697882
+"Russia",2095,185.626928261
+"Russia",2100,181.510890491
+"Russia",2105,0
+"Russia",2110,0
+"Russia",2115,0
+"Russia",2120,0
+"Russia",2125,0
+"Russia",2130,0
+"Russia",2135,0
+"Russia",2140,0
+"Russia",2145,0
+"Russia",2150,0
+"South Africa",2010,79.351557501
+"South Africa",2015,83.567433302
+"South Africa",2020,87.543475952
+"South Africa",2025,91.081763417
+"South Africa",2030,94.257183022
+"South Africa",2035,97.062266186
+"South Africa",2040,99.540496391
+"South Africa",2045,101.443531022
+"South Africa",2050,102.629624535
+"South Africa",2055,103.291612402
+"South Africa",2060,103.756111648
+"South Africa",2065,103.813204901
+"South Africa",2070,103.324516426
+"South Africa",2075,102.378307439
+"South Africa",2080,100.952344142
+"South Africa",2085,99.169311331
+"South Africa",2090,97.049955296
+"South Africa",2095,94.646764864
+"South Africa",2100,91.938081887
+"South Africa",2105,0
+"South Africa",2110,0
+"South Africa",2115,0
+"South Africa",2120,0
+"South Africa",2125,0
+"South Africa",2130,0
+"South Africa",2135,0
+"South Africa",2140,0
+"South Africa",2145,0
+"South Africa",2150,0
+"South America_Northern",2010,47.987006653
+"South America_Northern",2015,51.809686555
+"South America_Northern",2020,55.340946945
+"South America_Northern",2025,58.597832604
+"South America_Northern",2030,61.429412582
+"South America_Northern",2035,63.878958625
+"South America_Northern",2040,65.95901186
+"South America_Northern",2045,67.505007005
+"South America_Northern",2050,68.565463205
+"South America_Northern",2055,69.126497455
+"South America_Northern",2060,69.352278627
+"South America_Northern",2065,69.217300881
+"South America_Northern",2070,68.68329176
+"South America_Northern",2075,67.7800316
+"South America_Northern",2080,66.679463152
+"South America_Northern",2085,65.385523138
+"South America_Northern",2090,63.89084691
+"South America_Northern",2095,62.226953732
+"South America_Northern",2100,60.490792462
+"South America_Northern",2105,0
+"South America_Northern",2110,0
+"South America_Northern",2115,0
+"South America_Northern",2120,0
+"South America_Northern",2125,0
+"South America_Northern",2130,0
+"South America_Northern",2135,0
+"South America_Northern",2140,0
+"South America_Northern",2145,0
+"South America_Northern",2150,0
+"South America_Southern",2010,125.507610543
+"South America_Southern",2015,133.182670264
+"South America_Southern",2020,139.948027663
+"South America_Southern",2025,145.677581568
+"South America_Southern",2030,150.277550703
+"South America_Southern",2035,153.899602588
+"South America_Southern",2040,156.54489495
+"South America_Southern",2045,158.228672287
+"South America_Southern",2050,158.847101842
+"South America_Southern",2055,158.394275883
+"South America_Southern",2060,156.953878806
+"South America_Southern",2065,155.167639507
+"South America_Southern",2070,153.07420106
+"South America_Southern",2075,150.679527149
+"South America_Southern",2080,148.061490578
+"South America_Southern",2085,145.217526858
+"South America_Southern",2090,142.210893029
+"South America_Southern",2095,139.169243883
+"South America_Southern",2100,136.131680972
+"South America_Southern",2105,0
+"South America_Southern",2110,0
+"South America_Southern",2115,0
+"South America_Southern",2120,0
+"South America_Southern",2125,0
+"South America_Southern",2130,0
+"South America_Southern",2135,0
+"South America_Southern",2140,0
+"South America_Southern",2145,0
+"South America_Southern",2150,0
+"South Asia",2010,365.63933209
+"South Asia",2015,396.710109121
+"South Asia",2020,428.433441143
+"South Asia",2025,457.330216379
+"South Asia",2030,483.146798762
+"South Asia",2035,506.426674464
+"South Asia",2040,527.658522852
+"South Asia",2045,544.771775847
+"South Asia",2050,557.72616409
+"South Asia",2055,567.263481892
+"South Asia",2060,572.7828203
+"South Asia",2065,575.321121934
+"South Asia",2070,575.690620646
+"South Asia",2075,575.155295605
+"South Asia",2080,572.140482928
+"South Asia",2085,566.996802905
+"South Asia",2090,560.278794822
+"South Asia",2095,552.698359565
+"South Asia",2100,544.369817216
+"South Asia",2105,0
+"South Asia",2110,0
+"South Asia",2115,0
+"South Asia",2120,0
+"South Asia",2125,0
+"South Asia",2130,0
+"South Asia",2135,0
+"South Asia",2140,0
+"South Asia",2145,0
+"South Asia",2150,0
+"South Korea",2010,79.469786924
+"South Korea",2015,80.08697063
+"South Korea",2020,80.738795804
+"South Korea",2025,79.839320021
+"South Korea",2030,78.125869126
+"South Korea",2035,76.023151932
+"South Korea",2040,73.431436256
+"South Korea",2045,70.863997223
+"South Korea",2050,67.980232911
+"South Korea",2055,65.283403157
+"South Korea",2060,62.02869025
+"South Korea",2065,58.79807624
+"South Korea",2070,56.1589392
+"South Korea",2075,53.473103574
+"South Korea",2080,51.026314092
+"South Korea",2085,48.66225125
+"South Korea",2090,46.333980566
+"South Korea",2095,44.06628956
+"South Korea",2100,41.89133978
+"South Korea",2105,0
+"South Korea",2110,0
+"South Korea",2115,0
+"South Korea",2120,0
+"South Korea",2125,0
+"South Korea",2130,0
+"South Korea",2135,0
+"South Korea",2140,0
+"South Korea",2145,0
+"South Korea",2150,0
+"Southeast Asia",2010,617.115498582
+"Southeast Asia",2015,658.87365768
+"Southeast Asia",2020,692.771116139
+"Southeast Asia",2025,720.98960052
+"Southeast Asia",2030,743.978281766
+"Southeast Asia",2035,761.543828114
+"Southeast Asia",2040,774.257386295
+"Southeast Asia",2045,782.719058868
+"Southeast Asia",2050,784.42346888
+"Southeast Asia",2055,781.35778051
+"Southeast Asia",2060,774.18792301
+"Southeast Asia",2065,765.583882317
+"Southeast Asia",2070,754.554491718
+"Southeast Asia",2075,741.227912235
+"Southeast Asia",2080,726.041246805
+"Southeast Asia",2085,709.198370977
+"Southeast Asia",2090,691.595918201
+"Southeast Asia",2095,673.856163512
+"Southeast Asia",2100,655.952704641
+"Southeast Asia",2105,0
+"Southeast Asia",2110,0
+"Southeast Asia",2115,0
+"Southeast Asia",2120,0
+"Southeast Asia",2125,0
+"Southeast Asia",2130,0
+"Southeast Asia",2135,0
+"Southeast Asia",2140,0
+"Southeast Asia",2145,0
+"Southeast Asia",2150,0
+"USA",2010,500.119562747
+"USA",2015,518.467329428
+"USA",2020,534.797710413
+"USA",2025,549.542888238
+"USA",2030,564.289626309
+"USA",2035,580.234818801
+"USA",2040,595.262887124
+"USA",2045,609.823620833
+"USA",2050,621.113685725
+"USA",2055,631.490530484
+"USA",2060,642.070799454
+"USA",2065,653.187153735
+"USA",2070,661.61529778
+"USA",2075,667.017072408
+"USA",2080,671.628797432
+"USA",2085,673.617283575
+"USA",2090,673.561470732
+"USA",2095,671.920200601
+"USA",2100,668.611083642
+"USA",2105,0
+"USA",2110,0
+"USA",2115,0
+"USA",2120,0
+"USA",2125,0
+"USA",2130,0
+"USA",2135,0
+"USA",2140,0
+"USA",2145,0
+"USA",2150,0

@@ -1,0 +1,705 @@
+"region","year","labor.force.share"
+"USA",1975,0.412053
+"USA",1990,0.488045
+"USA",2005,0.483039
+"USA",2010,0.455498
+"USA",2015,0.469726
+"USA",2020,0.460115
+"USA",2025,0.447587
+"USA",2030,0.438027
+"USA",2035,0.43436
+"USA",2040,0.431746
+"USA",2045,0.43112
+"USA",2050,0.425654
+"USA",2055,0.418741
+"USA",2060,0.412203
+"USA",2065,0.408421
+"USA",2070,0.402468
+"USA",2075,0.394563
+"USA",2080,0.389138
+"USA",2085,0.3827
+"USA",2090,0.375726
+"USA",2095,0.36867
+"USA",2100,0.361562
+"Africa_Eastern",1975,0.31945
+"Africa_Eastern",1990,0.371488
+"Africa_Eastern",2005,0.376315
+"Africa_Eastern",2010,0.387304
+"Africa_Eastern",2015,0.400372
+"Africa_Eastern",2020,0.408715
+"Africa_Eastern",2025,0.41799
+"Africa_Eastern",2030,0.428064
+"Africa_Eastern",2035,0.437854
+"Africa_Eastern",2040,0.446313
+"Africa_Eastern",2045,0.453103
+"Africa_Eastern",2050,0.458458
+"Africa_Eastern",2055,0.462085
+"Africa_Eastern",2060,0.464421
+"Africa_Eastern",2065,0.465418
+"Africa_Eastern",2070,0.464925
+"Africa_Eastern",2075,0.463288
+"Africa_Eastern",2080,0.460375
+"Africa_Eastern",2085,0.456542
+"Africa_Eastern",2090,0.452293
+"Africa_Eastern",2095,0.447534
+"Africa_Eastern",2100,0.44213
+"Africa_Northern",1975,0.217914
+"Africa_Northern",1990,0.223327
+"Africa_Northern",2005,0.261218
+"Africa_Northern",2010,0.307774
+"Africa_Northern",2015,0.302402
+"Africa_Northern",2020,0.303209
+"Africa_Northern",2025,0.303615
+"Africa_Northern",2030,0.305255
+"Africa_Northern",2035,0.306989
+"Africa_Northern",2040,0.307262
+"Africa_Northern",2045,0.303981
+"Africa_Northern",2050,0.296859
+"Africa_Northern",2055,0.289567
+"Africa_Northern",2060,0.284717
+"Africa_Northern",2065,0.28223
+"Africa_Northern",2070,0.279371
+"Africa_Northern",2075,0.274967
+"Africa_Northern",2080,0.269733
+"Africa_Northern",2085,0.264501
+"Africa_Northern",2090,0.259827
+"Africa_Northern",2095,0.255869
+"Africa_Northern",2100,0.251858
+"Africa_Southern",1975,0.377959
+"Africa_Southern",1990,0.388405
+"Africa_Southern",2005,0.392465
+"Africa_Southern",2010,0.415881
+"Africa_Southern",2015,0.428576
+"Africa_Southern",2020,0.437881
+"Africa_Southern",2025,0.45098
+"Africa_Southern",2030,0.464593
+"Africa_Southern",2035,0.477925
+"Africa_Southern",2040,0.489577
+"Africa_Southern",2045,0.499642
+"Africa_Southern",2050,0.508391
+"Africa_Southern",2055,0.516411
+"Africa_Southern",2060,0.523106
+"Africa_Southern",2065,0.528154
+"Africa_Southern",2070,0.530443
+"Africa_Southern",2075,0.530175
+"Africa_Southern",2080,0.528532
+"Africa_Southern",2085,0.525351
+"Africa_Southern",2090,0.521234
+"Africa_Southern",2095,0.516159
+"Africa_Southern",2100,0.510306
+"Africa_Western",1975,0.312995
+"Africa_Western",1990,0.341679
+"Africa_Western",2005,0.341426
+"Africa_Western",2010,0.348264
+"Africa_Western",2015,0.357464
+"Africa_Western",2020,0.362395
+"Africa_Western",2025,0.36974
+"Africa_Western",2030,0.377834
+"Africa_Western",2035,0.385964
+"Africa_Western",2040,0.393437
+"Africa_Western",2045,0.400105
+"Africa_Western",2050,0.406172
+"Africa_Western",2055,0.413028
+"Africa_Western",2060,0.41996
+"Africa_Western",2065,0.426122
+"Africa_Western",2070,0.430672
+"Africa_Western",2075,0.433138
+"Africa_Western",2080,0.43404
+"Africa_Western",2085,0.434015
+"Africa_Western",2090,0.433152
+"Africa_Western",2095,0.431096
+"Africa_Western",2100,0.427561
+"Australia_NZ",1975,0.431917
+"Australia_NZ",1990,0.460088
+"Australia_NZ",2005,0.493983
+"Australia_NZ",2010,0.501727
+"Australia_NZ",2015,0.500503
+"Australia_NZ",2020,0.49148
+"Australia_NZ",2025,0.479958
+"Australia_NZ",2030,0.470472
+"Australia_NZ",2035,0.466699
+"Australia_NZ",2040,0.461896
+"Australia_NZ",2045,0.458561
+"Australia_NZ",2050,0.447941
+"Australia_NZ",2055,0.434064
+"Australia_NZ",2060,0.425037
+"Australia_NZ",2065,0.419714
+"Australia_NZ",2070,0.41537
+"Australia_NZ",2075,0.407688
+"Australia_NZ",2080,0.398866
+"Australia_NZ",2085,0.388342
+"Australia_NZ",2090,0.378315
+"Australia_NZ",2095,0.370388
+"Australia_NZ",2100,0.363975
+"Brazil",1975,0.406156
+"Brazil",1990,0.469867
+"Brazil",2005,0.481047
+"Brazil",2010,0.495182
+"Brazil",2015,0.51153
+"Brazil",2020,0.51581
+"Brazil",2025,0.514515
+"Brazil",2030,0.506172
+"Brazil",2035,0.498269
+"Brazil",2040,0.490207
+"Brazil",2045,0.478319
+"Brazil",2050,0.46277
+"Brazil",2055,0.449887
+"Brazil",2060,0.439106
+"Brazil",2065,0.425777
+"Brazil",2070,0.41218
+"Brazil",2075,0.404469
+"Brazil",2080,0.396939
+"Brazil",2085,0.388768
+"Brazil",2090,0.380587
+"Brazil",2095,0.373419
+"Brazil",2100,0.367075
+"Canada",1975,0.418692
+"Canada",1990,0.482555
+"Canada",2005,0.507215
+"Canada",2010,0.506475
+"Canada",2015,0.507361
+"Canada",2020,0.49528
+"Canada",2025,0.475442
+"Canada",2030,0.457831
+"Canada",2035,0.452512
+"Canada",2040,0.451249
+"Canada",2045,0.44874
+"Canada",2050,0.440556
+"Canada",2055,0.42771
+"Canada",2060,0.416767
+"Canada",2065,0.411615
+"Canada",2070,0.408595
+"Canada",2075,0.402644
+"Canada",2080,0.395404
+"Canada",2085,0.386127
+"Canada",2090,0.376467
+"Canada",2095,0.368658
+"Canada",2100,0.362925
+"Central America and Caribbean",1975,0.281916
+"Central America and Caribbean",1990,0.312054
+"Central America and Caribbean",2005,0.371245
+"Central America and Caribbean",2010,0.387465
+"Central America and Caribbean",2015,0.417886
+"Central America and Caribbean",2020,0.423618
+"Central America and Caribbean",2025,0.427291
+"Central America and Caribbean",2030,0.426237
+"Central America and Caribbean",2035,0.42445
+"Central America and Caribbean",2040,0.4229
+"Central America and Caribbean",2045,0.422012
+"Central America and Caribbean",2050,0.418887
+"Central America and Caribbean",2055,0.41401
+"Central America and Caribbean",2060,0.407365
+"Central America and Caribbean",2065,0.400545
+"Central America and Caribbean",2070,0.393994
+"Central America and Caribbean",2075,0.387561
+"Central America and Caribbean",2080,0.381741
+"Central America and Caribbean",2085,0.376375
+"Central America and Caribbean",2090,0.371125
+"Central America and Caribbean",2095,0.365919
+"Central America and Caribbean",2100,0.360718
+"Central Asia",1975,0
+"Central Asia",1990,0.435782
+"Central Asia",2005,0.409986
+"Central Asia",2010,0.427194
+"Central Asia",2015,0.440281
+"Central Asia",2020,0.441169
+"Central Asia",2025,0.436297
+"Central Asia",2030,0.435729
+"Central Asia",2035,0.440954
+"Central Asia",2040,0.443398
+"Central Asia",2045,0.441957
+"Central Asia",2050,0.434423
+"Central Asia",2055,0.421237
+"Central Asia",2060,0.411184
+"Central Asia",2065,0.409821
+"Central Asia",2070,0.40921
+"Central Asia",2075,0.401298
+"Central Asia",2080,0.392401
+"Central Asia",2085,0.384506
+"Central Asia",2090,0.378939
+"Central Asia",2095,0.37511
+"Central Asia",2100,0.370771
+"China",1975,0.45302
+"China",1990,0.560768
+"China",2005,0.573089
+"China",2010,0.570251
+"China",2015,0.566562
+"China",2020,0.560852
+"China",2025,0.555349
+"China",2030,0.54369
+"China",2035,0.518264
+"China",2040,0.495619
+"China",2045,0.488326
+"China",2050,0.475554
+"China",2055,0.449921
+"China",2060,0.430948
+"China",2065,0.41564
+"China",2070,0.404888
+"China",2075,0.392875
+"China",2080,0.385744
+"China",2085,0.378149
+"China",2090,0.37161
+"China",2095,0.365693
+"China",2100,0.360268
+"EU-12",1975,0.52959
+"EU-12",1990,0.498037
+"EU-12",2005,0.407803
+"EU-12",2010,0.419759
+"EU-12",2015,0.429429
+"EU-12",2020,0.415147
+"EU-12",2025,0.401056
+"EU-12",2030,0.39698
+"EU-12",2035,0.392344
+"EU-12",2040,0.383798
+"EU-12",2045,0.366882
+"EU-12",2050,0.349484
+"EU-12",2055,0.332509
+"EU-12",2060,0.323756
+"EU-12",2065,0.322781
+"EU-12",2070,0.324483
+"EU-12",2075,0.321751
+"EU-12",2080,0.316486
+"EU-12",2085,0.310164
+"EU-12",2090,0.303959
+"EU-12",2095,0.299152
+"EU-12",2100,0.29604
+"EU-15",1975,0.423631
+"EU-15",1990,0.438553
+"EU-15",2005,0.454203
+"EU-15",2010,0.45226
+"EU-15",2015,0.451232
+"EU-15",2020,0.441701
+"EU-15",2025,0.429912
+"EU-15",2030,0.415145
+"EU-15",2035,0.40086
+"EU-15",2040,0.390442
+"EU-15",2045,0.382175
+"EU-15",2050,0.374346
+"EU-15",2055,0.36744
+"EU-15",2060,0.364406
+"EU-15",2065,0.363172
+"EU-15",2070,0.360857
+"EU-15",2075,0.355408
+"EU-15",2080,0.349554
+"EU-15",2085,0.34333
+"EU-15",2090,0.33752
+"EU-15",2095,0.332267
+"EU-15",2100,0.327367
+"Europe_Eastern",1975,0.488816
+"Europe_Eastern",1990,0.488816
+"Europe_Eastern",2005,0.430555
+"Europe_Eastern",2010,0.439773
+"Europe_Eastern",2015,0.383269
+"Europe_Eastern",2020,0.374838
+"Europe_Eastern",2025,0.363468
+"Europe_Eastern",2030,0.358693
+"Europe_Eastern",2035,0.359826
+"Europe_Eastern",2040,0.3566
+"Europe_Eastern",2045,0.348829
+"Europe_Eastern",2050,0.335451
+"Europe_Eastern",2055,0.322049
+"Europe_Eastern",2060,0.316431
+"Europe_Eastern",2065,0.317114
+"Europe_Eastern",2070,0.317298
+"Europe_Eastern",2075,0.31115
+"Europe_Eastern",2080,0.303082
+"Europe_Eastern",2085,0.295419
+"Europe_Eastern",2090,0.289093
+"Europe_Eastern",2095,0.283983
+"Europe_Eastern",2100,0.278781
+"Europe_Non_EU",1975,0.321402
+"Europe_Non_EU",1990,0.31826
+"Europe_Non_EU",2005,0.286751
+"Europe_Non_EU",2010,0.297848
+"Europe_Non_EU",2015,0.330098
+"Europe_Non_EU",2020,0.329539
+"Europe_Non_EU",2025,0.32755
+"Europe_Non_EU",2030,0.323525
+"Europe_Non_EU",2035,0.319765
+"Europe_Non_EU",2040,0.314698
+"Europe_Non_EU",2045,0.307826
+"Europe_Non_EU",2050,0.29951
+"Europe_Non_EU",2055,0.293061
+"Europe_Non_EU",2060,0.287484
+"Europe_Non_EU",2065,0.282534
+"Europe_Non_EU",2070,0.278852
+"Europe_Non_EU",2075,0.274288
+"Europe_Non_EU",2080,0.269629
+"Europe_Non_EU",2085,0.264944
+"Europe_Non_EU",2090,0.260209
+"Europe_Non_EU",2095,0.25536
+"Europe_Non_EU",2100,0.250249
+"European Free Trade Association",1975,0.474514
+"European Free Trade Association",1990,0.540775
+"European Free Trade Association",2005,0.532968
+"European Free Trade Association",2010,0.548773
+"European Free Trade Association",2015,0.561207
+"European Free Trade Association",2020,0.551844
+"European Free Trade Association",2025,0.536097
+"European Free Trade Association",2030,0.51756
+"European Free Trade Association",2035,0.498663
+"European Free Trade Association",2040,0.486837
+"European Free Trade Association",2045,0.481272
+"European Free Trade Association",2050,0.47373
+"European Free Trade Association",2055,0.465303
+"European Free Trade Association",2060,0.456646
+"European Free Trade Association",2065,0.451035
+"European Free Trade Association",2070,0.44713
+"European Free Trade Association",2075,0.441094
+"European Free Trade Association",2080,0.434281
+"European Free Trade Association",2085,0.426025
+"European Free Trade Association",2090,0.417127
+"European Free Trade Association",2095,0.408643
+"European Free Trade Association",2100,0.401664
+"India",1975,0.401309
+"India",1990,0.411845
+"India",2005,0.41817
+"India",2010,0.394337
+"India",2015,0.398515
+"India",2020,0.402725
+"India",2025,0.406556
+"India",2030,0.410017
+"India",2035,0.411532
+"India",2040,0.411102
+"India",2045,0.407684
+"India",2050,0.402351
+"India",2055,0.395738
+"India",2060,0.388946
+"India",2065,0.382577
+"India",2070,0.376158
+"India",2075,0.369128
+"India",2080,0.362204
+"India",2085,0.355863
+"India",2090,0.350565
+"India",2095,0.346152
+"India",2100,0.341127
+"Indonesia",1975,0.338516
+"Indonesia",1990,0.422982
+"Indonesia",2005,0.41506
+"Indonesia",2010,0.450167
+"Indonesia",2015,0.45523
+"Indonesia",2020,0.461329
+"Indonesia",2025,0.464003
+"Indonesia",2030,0.463243
+"Indonesia",2035,0.458678
+"Indonesia",2040,0.451811
+"Indonesia",2045,0.443413
+"Indonesia",2050,0.433875
+"Indonesia",2055,0.425235
+"Indonesia",2060,0.416549
+"Indonesia",2065,0.40822
+"Indonesia",2070,0.396989
+"Indonesia",2075,0.386435
+"Indonesia",2080,0.377049
+"Indonesia",2085,0.368647
+"Indonesia",2090,0.36107
+"Indonesia",2095,0.354398
+"Indonesia",2100,0.348187
+"Japan",1975,0.504223
+"Japan",1990,0.522902
+"Japan",2005,0.512542
+"Japan",2010,0.513563
+"Japan",2015,0.523366
+"Japan",2020,0.507273
+"Japan",2025,0.501545
+"Japan",2030,0.494269
+"Japan",2035,0.481781
+"Japan",2040,0.458596
+"Japan",2045,0.442506
+"Japan",2050,0.430065
+"Japan",2055,0.42202
+"Japan",2060,0.417163
+"Japan",2065,0.412132
+"Japan",2070,0.406995
+"Japan",2075,0.40005
+"Japan",2080,0.391603
+"Japan",2085,0.38553
+"Japan",2090,0.381025
+"Japan",2095,0.377006
+"Japan",2100,0.372738
+"Mexico",1975,0.260613
+"Mexico",1990,0.333654
+"Mexico",2005,0.387264
+"Mexico",2010,0.418168
+"Mexico",2015,0.429452
+"Mexico",2020,0.431628
+"Mexico",2025,0.430892
+"Mexico",2030,0.427717
+"Mexico",2035,0.422574
+"Mexico",2040,0.415268
+"Mexico",2045,0.410846
+"Mexico",2050,0.408281
+"Mexico",2055,0.403628
+"Mexico",2060,0.396202
+"Mexico",2065,0.390522
+"Mexico",2070,0.383691
+"Mexico",2075,0.37753
+"Mexico",2080,0.371311
+"Mexico",2085,0.364891
+"Mexico",2090,0.358827
+"Mexico",2095,0.35292
+"Mexico",2100,0.346629
+"Middle East",1975,0.243457
+"Middle East",1990,0.247
+"Middle East",2005,0.277023
+"Middle East",2010,0.284478
+"Middle East",2015,0.296948
+"Middle East",2020,0.298914
+"Middle East",2025,0.301135
+"Middle East",2030,0.304001
+"Middle East",2035,0.305164
+"Middle East",2040,0.303588
+"Middle East",2045,0.298618
+"Middle East",2050,0.290844
+"Middle East",2055,0.283747
+"Middle East",2060,0.280379
+"Middle East",2065,0.279163
+"Middle East",2070,0.277003
+"Middle East",2075,0.272448
+"Middle East",2080,0.267697
+"Middle East",2085,0.262741
+"Middle East",2090,0.258324
+"Middle East",2095,0.254027
+"Middle East",2100,0.249251
+"Pakistan",1975,0.271838
+"Pakistan",1990,0.266856
+"Pakistan",2005,0.262895
+"Pakistan",2010,0.291584
+"Pakistan",2015,0.298906
+"Pakistan",2020,0.302938
+"Pakistan",2025,0.305093
+"Pakistan",2030,0.308663
+"Pakistan",2035,0.313418
+"Pakistan",2040,0.317322
+"Pakistan",2045,0.31849
+"Pakistan",2050,0.31692
+"Pakistan",2055,0.313419
+"Pakistan",2060,0.310057
+"Pakistan",2065,0.30758
+"Pakistan",2070,0.307648
+"Pakistan",2075,0.305858
+"Pakistan",2080,0.302009
+"Pakistan",2085,0.296806
+"Pakistan",2090,0.2919
+"Pakistan",2095,0.287994
+"Pakistan",2100,0.284323
+"Russia",1975,0.506906
+"Russia",1990,0.506906
+"Russia",2005,0.463024
+"Russia",2010,0.470171
+"Russia",2015,0.478143
+"Russia",2020,0.460168
+"Russia",2025,0.444837
+"Russia",2030,0.439485
+"Russia",2035,0.445555
+"Russia",2040,0.44293
+"Russia",2045,0.432559
+"Russia",2050,0.412531
+"Russia",2055,0.392751
+"Russia",2060,0.390049
+"Russia",2065,0.394238
+"Russia",2070,0.394342
+"Russia",2075,0.386323
+"Russia",2080,0.374649
+"Russia",2085,0.364809
+"Russia",2090,0.35861
+"Russia",2095,0.355147
+"Russia",2100,0.350838
+"South Africa",1975,0.307353
+"South Africa",1990,0.29136
+"South Africa",2005,0.291972
+"South Africa",2010,0.286153
+"South Africa",2015,0.317058
+"South Africa",2020,0.320078
+"South Africa",2025,0.322589
+"South Africa",2030,0.326124
+"South Africa",2035,0.330447
+"South Africa",2040,0.334781
+"South Africa",2045,0.337221
+"South Africa",2050,0.336299
+"South Africa",2055,0.333834
+"South Africa",2060,0.332147
+"South Africa",2065,0.330721
+"South Africa",2070,0.328725
+"South Africa",2075,0.326697
+"South Africa",2080,0.324248
+"South Africa",2085,0.320831
+"South Africa",2090,0.316543
+"South Africa",2095,0.311791
+"South Africa",2100,0.306386
+"South America_Northern",1975,0.294346
+"South America_Northern",1990,0.32816
+"South America_Northern",2005,0.407258
+"South America_Northern",2010,0.430927
+"South America_Northern",2015,0.44288
+"South America_Northern",2020,0.447386
+"South America_Northern",2025,0.450346
+"South America_Northern",2030,0.449718
+"South America_Northern",2035,0.448688
+"South America_Northern",2040,0.447631
+"South America_Northern",2045,0.44354
+"South America_Northern",2050,0.437646
+"South America_Northern",2055,0.429384
+"South America_Northern",2060,0.421354
+"South America_Northern",2065,0.413168
+"South America_Northern",2070,0.404243
+"South America_Northern",2075,0.394597
+"South America_Northern",2080,0.385626
+"South America_Northern",2085,0.376984
+"South America_Northern",2090,0.367961
+"South America_Northern",2095,0.358484
+"South America_Northern",2100,0.349571
+"South America_Southern",1975,0.309041
+"South America_Southern",1990,0.364509
+"South America_Southern",2005,0.437217
+"South America_Southern",2010,0.460484
+"South America_Southern",2015,0.474773
+"South America_Southern",2020,0.480469
+"South America_Southern",2025,0.481967
+"South America_Southern",2030,0.48022
+"South America_Southern",2035,0.477649
+"South America_Southern",2040,0.474046
+"South America_Southern",2045,0.46988
+"South America_Southern",2050,0.464297
+"South America_Southern",2055,0.456824
+"South America_Southern",2060,0.447404
+"South America_Southern",2065,0.438649
+"South America_Southern",2070,0.430258
+"South America_Southern",2075,0.422155
+"South America_Southern",2080,0.41495
+"South America_Southern",2085,0.40824
+"South America_Southern",2090,0.401825
+"South America_Southern",2095,0.395824
+"South America_Southern",2100,0.390149
+"South Asia",1975,0.277879
+"South Asia",1990,0.339013
+"South Asia",2005,0.360423
+"South Asia",2010,0.383466
+"South Asia",2015,0.401382
+"South Asia",2020,0.411163
+"South Asia",2025,0.415172
+"South Asia",2030,0.415896
+"South Asia",2035,0.415637
+"South Asia",2040,0.4161
+"South Asia",2045,0.414037
+"South Asia",2050,0.410032
+"South Asia",2055,0.40571
+"South Asia",2060,0.400072
+"South Asia",2065,0.394028
+"South Asia",2070,0.388439
+"South Asia",2075,0.384922
+"South Asia",2080,0.380252
+"South Asia",2085,0.37472
+"South Asia",2090,0.368873
+"South Asia",2095,0.363386
+"South Asia",2100,0.357909
+"South Korea",1975,0.331368
+"South Korea",1990,0.421867
+"South Korea",2005,0.474343
+"South Korea",2010,0.480867
+"South Korea",2015,0.508405
+"South Korea",2020,0.506464
+"South Korea",2025,0.485105
+"South Korea",2030,0.457075
+"South Korea",2035,0.431186
+"South Korea",2040,0.40668
+"South Korea",2045,0.39074
+"South Korea",2050,0.376354
+"South Korea",2055,0.36986
+"South Korea",2060,0.355387
+"South Korea",2065,0.341839
+"South Korea",2070,0.33942
+"South Korea",2075,0.334988
+"South Korea",2080,0.333636
+"South Korea",2085,0.331574
+"South Korea",2090,0.327156
+"South Korea",2095,0.320401
+"South Korea",2100,0.31443
+"Southeast Asia",1975,0.393789
+"Southeast Asia",1990,0.457468
+"Southeast Asia",2005,0.485257
+"Southeast Asia",2010,0.503586
+"Southeast Asia",2015,0.508296
+"Southeast Asia",2020,0.510858
+"Southeast Asia",2025,0.509544
+"Southeast Asia",2030,0.506681
+"Southeast Asia",2035,0.502523
+"Southeast Asia",2040,0.498056
+"Southeast Asia",2045,0.494218
+"Southeast Asia",2050,0.486693
+"Southeast Asia",2055,0.477369
+"Southeast Asia",2060,0.466611
+"Southeast Asia",2065,0.458535
+"Southeast Asia",2070,0.450567
+"Southeast Asia",2075,0.442779
+"Southeast Asia",2080,0.435132
+"Southeast Asia",2085,0.4271
+"Southeast Asia",2090,0.419393
+"Southeast Asia",2095,0.412296
+"Southeast Asia",2100,0.405473
+"Taiwan",1975,0.364921
+"Taiwan",1990,0.428961
+"Taiwan",2005,0.454465
+"Taiwan",2010,0.470832
+"Taiwan",2015,0.494656
+"Taiwan",2020,0.494656
+"Taiwan",2025,0.494656
+"Taiwan",2030,0.494656
+"Taiwan",2035,0.494656
+"Taiwan",2040,0.494656
+"Taiwan",2045,0.494656
+"Taiwan",2050,0.494656
+"Taiwan",2055,0.494656
+"Taiwan",2060,0.494656
+"Taiwan",2065,0.494656
+"Taiwan",2070,0.494656
+"Taiwan",2075,0.494656
+"Taiwan",2080,0.494656
+"Taiwan",2085,0.494656
+"Taiwan",2090,0.494656
+"Taiwan",2095,0.494656
+"Taiwan",2100,0.494656
+"Argentina",1975,0.37708
+"Argentina",1990,0.378674
+"Argentina",2005,0.413368
+"Argentina",2010,0.447022
+"Argentina",2015,0.455584
+"Argentina",2020,0.455997
+"Argentina",2025,0.455811
+"Argentina",2030,0.455807
+"Argentina",2035,0.455504
+"Argentina",2040,0.451436
+"Argentina",2045,0.441611
+"Argentina",2050,0.434041
+"Argentina",2055,0.426506
+"Argentina",2060,0.418765
+"Argentina",2065,0.411938
+"Argentina",2070,0.406512
+"Argentina",2075,0.399627
+"Argentina",2080,0.392551
+"Argentina",2085,0.385195
+"Argentina",2090,0.377983
+"Argentina",2095,0.370534
+"Argentina",2100,0.362594
+"Colombia",1975,0.300754
+"Colombia",1990,0.347472
+"Colombia",2005,0.411592
+"Colombia",2010,0.43714
+"Colombia",2015,0.472943
+"Colombia",2020,0.474811
+"Colombia",2025,0.473989
+"Colombia",2030,0.470227
+"Colombia",2035,0.465156
+"Colombia",2040,0.462282
+"Colombia",2045,0.45687
+"Colombia",2050,0.450492
+"Colombia",2055,0.443191
+"Colombia",2060,0.434453
+"Colombia",2065,0.426724
+"Colombia",2070,0.419201
+"Colombia",2075,0.411039
+"Colombia",2080,0.404162
+"Colombia",2085,0.397146
+"Colombia",2090,0.389887
+"Colombia",2095,0.382648
+"Colombia",2100,0.375486
