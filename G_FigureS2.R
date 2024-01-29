@@ -36,7 +36,7 @@ theme_add <- theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
                    strip.text.x = element_text(size = 12))
 
 N <- "10"
-cluster <- read.csv("ClusterRegion.csv") %>% select(region, REG10_AR6) %>%
+cluster <- read.csv("input/ClusterRegion.csv") %>% select(region, REG10_AR6) %>%
   rename(REG = REG10_AR6)
 
 REG <- function(df){
